@@ -1,0 +1,78 @@
+test line/content/drive/MyDrive/0_318lab/SCMP_ML/model1691655981.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 100, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 0.005
+, epoch:     1 , passed_time: 0.001 m , minimum_RMSE: 7.86 , test_loss: 7.862453 , train_loss: 7.734354 , passed_time_accum: 0.001 m model_save_time 1691655981
+/content/drive/MyDrive/0_318lab/SCMP_ML/model1691655981.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 100, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 0.005
+, epoch:     1 , passed_time: 0.003 m , minimum_RMSE: 7.86 , test_loss: 7.862453 , train_loss: 7.734354 , passed_time_accum: 0.003 m model_save_time 1691655981
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/model1691656195.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 100, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 0.005
+, epoch:  1012 , passed_time: 0.488 m , minimum_RMSE: 3.40 , test_loss: 53.606705 , train_loss: 65.059738 , passed_time_accum: 0.488 m model_save_time 1691656195
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/model1691658415.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 0.005
+, epoch:   230 , passed_time: 0.078 m , minimum_RMSE: 0.01 , test_loss: 0.007596 , train_loss: 0.003346 , passed_time_accum: 0.078 m model_save_time 1691658415
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/model1691659173.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 0.005
+, epoch:   195 , passed_time: 0.075 m , minimum_RMSE: 0.01 , test_loss: 0.007725 , train_loss: 0.003476 , passed_time_accum: 0.075 m model_save_time 1691659173
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/model1691659324.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 0.005
+, epoch:  2559 , passed_time: 1.000 m , minimum_RMSE: 0.00 , test_loss: 0.010088 , train_loss: 0.001897 , passed_time_accum: 1.001 m model_save_time 1691659324
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/model1691659325.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 0.005
+, epoch:  2559 , passed_time: 1.015 m , minimum_RMSE: 0.00 , test_loss: 0.010088 , train_loss: 0.001897 , passed_time_accum: 1.015 m model_save_time 1691659325
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/model1691659440.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 0.005
+, epoch:   257 , passed_time: 0.090 m , minimum_RMSE: 0.01 , test_loss: 0.016852 , train_loss: 0.022309 , passed_time_accum: 0.090 m model_save_time 1691659440
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/model1691659522.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 0.005
+, epoch:  2776 , passed_time: 1.001 m , minimum_RMSE: 0.00 , test_loss: 0.012028 , train_loss: 0.001338 , passed_time_accum: 1.001 m model_save_time 1691659522
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/results/model1691671249.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 0.1
+, epoch:     0 , passed_time: 0.001 m , minimum_RMSE: 0.46 , test_loss: 0.458647 , train_loss: 227.590805 , passed_time_accum: 0.001 m model_save_time 1691671249
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/results/model1691672100.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 0.0001
+, epoch:     0 , passed_time: 0.001 m , minimum_RMSE: 3.61927 , test_loss: 3.619265 , train_loss: 4.872175 , passed_time_accum: 0.001 m model_save_time 1691672100
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/results/model1691726083_RMSE_0.17980000000000002.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 0.0001
+, epoch: 23317 , passed_time: 10.001 m , minimum_RMSE: 0.13251 , RMSE_Test: 0.179831 , RMSE_Train: 0.051169 , passed_time_accum: 10.001 m model_save_time 1691726083
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/results/model1691726685_RMSE_0.15460000000000002.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 0.0005
+, epoch: 19752 , passed_time: 10.000 m , minimum_RMSE: 0.10346 , RMSE_Test: 0.154654 , RMSE_Train: 0.052564 , passed_time_accum: 20.033 m model_save_time 1691726685
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/results/model1691727287_RMSE_0.15940000000000001.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 1e-05
+, epoch: 25380 , passed_time: 10.000 m , minimum_RMSE: 0.10346 , RMSE_Test: 0.159411 , RMSE_Train: 0.055671 , passed_time_accum: 30.063 m model_save_time 1691727287
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/results/model1691727888_RMSE_0.2278.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 16 , learningRate: 0.0001
+, epoch: 44241 , passed_time: 10.000 m , minimum_RMSE: 0.10346 , RMSE_Test: 0.227890 , RMSE_Train: 0.043237 , passed_time_accum: 40.089 m model_save_time 1691727888
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/results/model1691728490_RMSE_0.1589.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 16 , learningRate: 0.0005
+, epoch: 39441 , passed_time: 10.000 m , minimum_RMSE: 0.10346 , RMSE_Test: 0.158925 , RMSE_Train: 0.032036 , passed_time_accum: 50.126 m model_save_time 1691728490
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/results/model1691729093_RMSE_0.17400000000000002.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 16 , learningRate: 1e-05
+, epoch: 49745 , passed_time: 10.000 m , minimum_RMSE: 0.10346 , RMSE_Test: 0.174088 , RMSE_Train: 0.079722 , passed_time_accum: 60.162 m model_save_time 1691729093
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/results/model1691729695_RMSE_0.1442.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 32 , learningRate: 0.0001
+, epoch: 79052 , passed_time: 10.000 m , minimum_RMSE: 0.09884 , RMSE_Test: 0.144252 , RMSE_Train: 0.046562 , passed_time_accum: 70.207 m model_save_time 1691729695
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/results/model1691730297_RMSE_0.1458.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 32 , learningRate: 0.0005
+, epoch: 67359 , passed_time: 10.001 m , minimum_RMSE: 0.09884 , RMSE_Test: 0.145825 , RMSE_Train: 0.029464 , passed_time_accum: 80.242 m model_save_time 1691730297
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/results/model1691730900_RMSE_0.1647.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 32 , learningRate: 1e-05
+, epoch: 82582 , passed_time: 10.000 m , minimum_RMSE: 0.09884 , RMSE_Test: 0.164764 , RMSE_Train: 0.064864 , passed_time_accum: 90.280 m model_save_time 1691730900
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/results/model1691731502_RMSE_0.1622.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 64 , learningRate: 0.0001
+, epoch: 145628 , passed_time: 10.000 m , minimum_RMSE: 0.09884 , RMSE_Test: 0.162285 , RMSE_Train: 0.056528 , passed_time_accum: 100.312 m model_save_time 1691731502
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/results/model1691732105_RMSE_0.15860000000000002.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 64 , learningRate: 0.0005
+, epoch: 121762 , passed_time: 10.000 m , minimum_RMSE: 0.09884 , RMSE_Test: 0.158683 , RMSE_Train: 0.042260 , passed_time_accum: 110.362 m model_save_time 1691732105
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/results/model1691732707_RMSE_0.12240000000000001.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 64 , learningRate: 1e-05
+, epoch: 136790 , passed_time: 10.000 m , minimum_RMSE: 0.09884 , RMSE_Test: 0.122460 , RMSE_Train: 0.067721 , passed_time_accum: 120.406 m model_save_time 1691732707
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/results/model1691733310_RMSE_0.18030000000000002.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 128 , learningRate: 0.0001
+, epoch: 221214 , passed_time: 10.000 m , minimum_RMSE: 0.09884 , RMSE_Test: 0.180385 , RMSE_Train: 0.055494 , passed_time_accum: 130.449 m model_save_time 1691733310
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/results/model1691733912_RMSE_0.1971.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 128 , learningRate: 0.0005
+, epoch: 205375 , passed_time: 10.000 m , minimum_RMSE: 0.09884 , RMSE_Test: 0.197181 , RMSE_Train: 0.046232 , passed_time_accum: 140.493 m model_save_time 1691733912
+/content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/NewJChem2021_45_9427_git/results/model1691734515_RMSE_0.18030000000000002.pt data: /content/drive/MyDrive/0_318lab/ML/NewJChem2021_45_9427/inputData.xlsx
+, layer_dim_list: [6, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 128 , learningRate: 1e-05
+, epoch: 234065 , passed_time: 10.000 m , minimum_RMSE: 0.09884 , RMSE_Test: 0.180369 , RMSE_Train: 0.058154 , passed_time_accum: 150.539 m model_save_time 1691734515
