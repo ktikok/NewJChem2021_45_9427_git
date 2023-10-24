@@ -454,3 +454,1187 @@ These parameters showed the best performance!-----------------------------------
 ('my_results/model_1695782721_best_0.pt', ', layer_dim_list:', [2200, 100, 100, 10, 1], 'activateion:', 'ReLU', ', optimizer:', 'Adam', ', Bsize:', 8, ', learningRate:', 0.01, ', epoch:   679', ', passed_time: 0.293', 'm', ', minimum_RMSE: 0.07465', ', test_loss: 0.074646', ', train_loss: 0.186752', ', passed_time_accum: 2.293', 'm')
 all done
 
+my_results/final_model_1695791446_best_0.19.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 0.001
+, epoch:  4909 , passed_time: 2.000 m , minimum_RMSE: 0.19805 , RMSE_Test: 0.319041 , RMSE_Train: 0.167660 , passed_time_accum: 2.000 m model_save_time 1695791446
+my_results/final_model_1695791568_best_0.18.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 16 , learningRate: 0.001
+, epoch:  9611 , passed_time: 2.000 m , minimum_RMSE: 0.18525 , RMSE_Test: 0.245605 , RMSE_Train: 0.131297 , passed_time_accum: 4.036 m model_save_time 1695791568
+my_results/final_model_1695791689_best_0.18.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 32 , learningRate: 0.001
+, epoch: 17903 , passed_time: 2.000 m , minimum_RMSE: 0.18525 , RMSE_Test: 0.256665 , RMSE_Train: 0.222355 , passed_time_accum: 6.046 m model_save_time 1695791689
+my_results/final_model_1695791810_best_0.18.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 64 , learningRate: 0.001
+, epoch: 27039 , passed_time: 2.000 m , minimum_RMSE: 0.18525 , RMSE_Test: 0.269027 , RMSE_Train: 0.173852 , passed_time_accum: 8.058 m model_save_time 1695791810
+my_results/final_model_1695791931_best_0.18.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 128 , learningRate: 0.001
+, epoch: 35500 , passed_time: 2.000 m , minimum_RMSE: 0.18525 , RMSE_Test: 0.351863 , RMSE_Train: 0.147929 , passed_time_accum: 10.072 m model_save_time 1695791931
+my_results/final_model_1695792051_best_0.18.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 0.005
+, epoch:  4809 , passed_time: 2.001 m , minimum_RMSE: 0.18525 , RMSE_Test: 0.523903 , RMSE_Train: 0.518010 , passed_time_accum: 12.085 m model_save_time 1695792051
+my_results/final_model_1695792172_best_0.18.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 16 , learningRate: 0.005
+, epoch:  9091 , passed_time: 2.000 m , minimum_RMSE: 0.18525 , RMSE_Test: 0.523874 , RMSE_Train: 0.404957 , passed_time_accum: 14.097 m model_save_time 1695792172
+my_results/final_model_1695792293_best_0.18.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 32 , learningRate: 0.005
+, epoch: 16903 , passed_time: 2.000 m , minimum_RMSE: 0.18525 , RMSE_Test: 0.235627 , RMSE_Train: 0.265108 , passed_time_accum: 16.107 m model_save_time 1695792293
+my_results/final_model_1695792413_best_0.18.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 64 , learningRate: 0.005
+, epoch: 26173 , passed_time: 2.000 m , minimum_RMSE: 0.18525 , RMSE_Test: 0.523800 , RMSE_Train: 0.570859 , passed_time_accum: 18.119 m model_save_time 1695792413
+my_results/final_model_1695792534_best_0.18.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 128 , learningRate: 0.005
+, epoch: 36453 , passed_time: 2.000 m , minimum_RMSE: 0.18525 , RMSE_Test: 0.523750 , RMSE_Train: 0.570514 , passed_time_accum: 20.134 m model_save_time 1695792534
+my_results/final_model_1695792655_best_0.17.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 0.0001
+, epoch:  5093 , passed_time: 2.000 m , minimum_RMSE: 0.17702 , RMSE_Test: 0.184040 , RMSE_Train: 0.055877 , passed_time_accum: 22.146 m model_save_time 1695792655
+my_results/final_model_1695792776_best_0.17.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 16 , learningRate: 0.0001
+, epoch:  9673 , passed_time: 2.000 m , minimum_RMSE: 0.17702 , RMSE_Test: 0.228903 , RMSE_Train: 0.144172 , passed_time_accum: 24.163 m model_save_time 1695792776
+my_results/final_model_1695792897_best_0.17.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 32 , learningRate: 0.0001
+, epoch: 18379 , passed_time: 2.000 m , minimum_RMSE: 0.17177 , RMSE_Test: 0.226928 , RMSE_Train: 0.174108 , passed_time_accum: 26.175 m model_save_time 1695792897
+my_results/final_model_1695793017_best_0.17.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 64 , learningRate: 0.0001
+, epoch: 28059 , passed_time: 2.000 m , minimum_RMSE: 0.17177 , RMSE_Test: 0.239975 , RMSE_Train: 0.103559 , passed_time_accum: 28.186 m model_save_time 1695793017
+my_results/final_model_1695793138_best_0.17.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 128 , learningRate: 0.0001
+, epoch: 36949 , passed_time: 2.000 m , minimum_RMSE: 0.17177 , RMSE_Test: 0.289082 , RMSE_Train: 0.103965 , passed_time_accum: 30.199 m model_save_time 1695793138
+my_results/final_model_1695793259_best_0.17.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 0.0005
+, epoch:  4842 , passed_time: 2.001 m , minimum_RMSE: 0.17177 , RMSE_Test: 0.261494 , RMSE_Train: 0.107306 , passed_time_accum: 32.212 m model_save_time 1695793259
+my_results/final_model_1695793380_best_0.17.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 16 , learningRate: 0.0005
+, epoch:  9269 , passed_time: 2.000 m , minimum_RMSE: 0.17177 , RMSE_Test: 0.242494 , RMSE_Train: 0.155035 , passed_time_accum: 34.227 m model_save_time 1695793380
+my_results/final_model_1695793500_best_0.17.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 32 , learningRate: 0.0005
+, epoch: 17762 , passed_time: 2.000 m , minimum_RMSE: 0.17177 , RMSE_Test: 0.245024 , RMSE_Train: 0.153521 , passed_time_accum: 36.238 m model_save_time 1695793500
+my_results/final_model_1695793621_best_0.17.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 64 , learningRate: 0.0005
+, epoch: 28126 , passed_time: 2.000 m , minimum_RMSE: 0.17177 , RMSE_Test: 0.289142 , RMSE_Train: 0.131469 , passed_time_accum: 38.249 m model_save_time 1695793621
+my_results/final_model_1695793742_best_0.17.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 128 , learningRate: 0.0005
+, epoch: 37880 , passed_time: 2.000 m , minimum_RMSE: 0.17177 , RMSE_Test: 0.284515 , RMSE_Train: 0.081738 , passed_time_accum: 40.262 m model_save_time 1695793742
+
+start!
+
+2023-09-27
+
+start
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.1 epoch:     0 , RMSE_Test: 0.78260 , RMSE_Train: 0.91478 , est_time:   0.0 min, average_time: 0.03 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.1 epoch:  1000 , RMSE_Test: 0.52473 , RMSE_Train: 0.51320 , est_time:   0.4 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.1 epoch:  2000 , RMSE_Test: 0.52376 , RMSE_Train: 0.51887 , est_time:   0.8 min, average_time: 0.03 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.1 epoch:  2351 , RMSE_Test: 0.52376 , RMSE_Train: 0.51887 , est_time:   1.0 min, average_time: 0.03 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.5 epoch:     0 , RMSE_Test: 1.06217 , RMSE_Train: 1.98246 , est_time:   0.0 min, average_time: 0.03 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.5 epoch:  1000 , RMSE_Test: 0.52778 , RMSE_Train: 0.50647 , est_time:   0.4 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.5 epoch:  2000 , RMSE_Test: 0.52398 , RMSE_Train: 0.51421 , est_time:   0.8 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.5 epoch:  2616 , RMSE_Test: 0.52398 , RMSE_Train: 0.51421 , est_time:   1.0 min, average_time: 0.02 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.01 epoch:     0 , RMSE_Test: 1.35934 , RMSE_Train: 1.51858 , est_time:   0.0 min, average_time: 0.03 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.01 epoch:   679 , RMSE_Test: 0.27321 , RMSE_Train: 0.43215 , est_time:   0.3 min, average_time: 0.03 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.05 epoch:     0 , RMSE_Test: 1.78843 , RMSE_Train: 1.75260 , est_time:   0.0 min, average_time: 0.03 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.05 epoch:  1000 , RMSE_Test: 0.52387 , RMSE_Train: 0.51872 , est_time:   0.4 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.05 epoch:  2000 , RMSE_Test: 0.52387 , RMSE_Train: 0.51872 , est_time:   0.8 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.05 epoch:  2626 , RMSE_Test: 0.52387 , RMSE_Train: 0.51872 , est_time:   1.0 min, average_time: 0.02 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.001 epoch:     0 , RMSE_Test: 0.91951 , RMSE_Train: 0.80315 , est_time:   0.0 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.001 epoch:   104 , RMSE_Test: 0.28669 , RMSE_Train: 0.09896 , est_time:   0.0 min, average_time: 0.02 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.005 epoch:     0 , RMSE_Test: 0.92683 , RMSE_Train: 0.93150 , est_time:   0.0 min, average_time: 0.03 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.005 epoch:    97 , RMSE_Test: 0.28753 , RMSE_Train: 0.12407 , est_time:   0.0 min, average_time: 0.03 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.0001 epoch:     0 , RMSE_Test: 0.54024 , RMSE_Train: 0.53926 , est_time:   0.0 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.0001 epoch:   158 , RMSE_Test: 0.29927 , RMSE_Train: 0.46678 , est_time:   0.1 min, average_time: 0.03 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.0005 epoch:     0 , RMSE_Test: 0.90434 , RMSE_Train: 0.95765 , est_time:   0.0 min, average_time: 0.03 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.0005 epoch:   253 , RMSE_Test: 0.29590 , RMSE_Train: 0.10462 , est_time:   0.1 min, average_time: 0.02 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  1e-05 epoch:     0 , RMSE_Test: 1.41286 , RMSE_Train: 1.35976 , est_time:   0.0 min, average_time: 0.03 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  1e-05 epoch:  1000 , RMSE_Test: 0.32519 , RMSE_Train: 0.39887 , est_time:   0.4 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  1e-05 epoch:  2000 , RMSE_Test: 0.30616 , RMSE_Train: 0.11698 , est_time:   0.8 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  1e-05 epoch:  2038 , RMSE_Test: 0.29727 , RMSE_Train: 0.11444 , est_time:   0.8 min, average_time: 0.02 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  5e-05 epoch:     0 , RMSE_Test: 0.52904 , RMSE_Train: 0.52952 , est_time:   0.0 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  5e-05 epoch:   162 , RMSE_Test: 0.29926 , RMSE_Train: 0.08322 , est_time:   0.1 min, average_time: 0.02 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  1e-06 epoch:     0 , RMSE_Test: 2.09334 , RMSE_Train: 1.98439 , est_time:   0.0 min, average_time: 0.03 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  1e-06 epoch:  1000 , RMSE_Test: 0.48562 , RMSE_Train: 0.42188 , est_time:   0.4 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  1e-06 epoch:  2000 , RMSE_Test: 0.45585 , RMSE_Train: 0.48444 , est_time:   0.7 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  1e-06 epoch:  2717 , RMSE_Test: 0.43811 , RMSE_Train: 0.52630 , est_time:   1.0 min, average_time: 0.02 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  5e-06 epoch:     0 , RMSE_Test: 2.96551 , RMSE_Train: 2.89061 , est_time:   0.0 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  5e-06 epoch:  1000 , RMSE_Test: 0.38061 , RMSE_Train: 0.49263 , est_time:   0.4 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  5e-06 epoch:  1723 , RMSE_Test: 0.29954 , RMSE_Train: 0.33094 , est_time:   0.6 min, average_time: 0.02 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.1 epoch:     0 , RMSE_Test: 2.71654 , RMSE_Train: 2.54232 , est_time:   0.0 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.1 epoch:  1000 , RMSE_Test: 0.52374 , RMSE_Train: 0.41228 , est_time:   0.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.1 epoch:  2000 , RMSE_Test: 0.52380 , RMSE_Train: 0.40907 , est_time:   0.5 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.1 epoch:  3000 , RMSE_Test: 0.52383 , RMSE_Train: 0.40799 , est_time:   0.8 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.1 epoch:  3926 , RMSE_Test: 0.52383 , RMSE_Train: 0.40799 , est_time:   1.0 min, average_time: 0.02 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.5 epoch:     0 , RMSE_Test: 3.55471 , RMSE_Train: 3.35291 , est_time:   0.0 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.5 epoch:  1000 , RMSE_Test: 0.52533 , RMSE_Train: 0.41931 , est_time:   0.3 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.5 epoch:  2000 , RMSE_Test: 0.52635 , RMSE_Train: 0.43045 , est_time:   0.5 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.5 epoch:  3000 , RMSE_Test: 0.52544 , RMSE_Train: 0.41752 , est_time:   0.7 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.5 epoch:  4000 , RMSE_Test: 0.52546 , RMSE_Train: 0.41749 , est_time:   0.9 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.5 epoch:  4399 , RMSE_Test: 0.52546 , RMSE_Train: 0.41750 , est_time:   1.0 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.01 epoch:     0 , RMSE_Test: 2.41487 , RMSE_Train: 0.87527 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.01 epoch:   118 , RMSE_Test: 0.29977 , RMSE_Train: 0.39728 , est_time:   0.0 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.05 epoch:     0 , RMSE_Test: 2.38933 , RMSE_Train: 2.22169 , est_time:   0.0 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.05 epoch:  1000 , RMSE_Test: 0.52386 , RMSE_Train: 0.40602 , est_time:   0.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.05 epoch:  2000 , RMSE_Test: 0.52385 , RMSE_Train: 0.40633 , est_time:   0.4 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.05 epoch:  3000 , RMSE_Test: 0.52385 , RMSE_Train: 0.40633 , est_time:   0.7 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.05 epoch:  4000 , RMSE_Test: 0.52385 , RMSE_Train: 0.40633 , est_time:   1.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.05 epoch:  4018 , RMSE_Test: 0.52385 , RMSE_Train: 0.40633 , est_time:   1.0 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.001 epoch:     0 , RMSE_Test: 0.57005 , RMSE_Train: 0.64931 , est_time:   0.0 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.001 epoch:    84 , RMSE_Test: 0.29930 , RMSE_Train: 0.42458 , est_time:   0.0 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.005 epoch:     0 , RMSE_Test: 2.57339 , RMSE_Train: 2.40919 , est_time:   0.0 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.005 epoch:   270 , RMSE_Test: 0.29976 , RMSE_Train: 0.40439 , est_time:   0.1 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0001 epoch:     0 , RMSE_Test: 0.55888 , RMSE_Train: 0.65825 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0001 epoch:   167 , RMSE_Test: 0.29965 , RMSE_Train: 0.27515 , est_time:   0.0 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0005 epoch:     0 , RMSE_Test: 0.65086 , RMSE_Train: 0.62441 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0005 epoch:   147 , RMSE_Test: 0.29852 , RMSE_Train: 0.24214 , est_time:   0.1 min, average_time: 0.02 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  1e-05 epoch:     0 , RMSE_Test: 1.95568 , RMSE_Train: 1.90385 , est_time:   0.0 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  1e-05 epoch:  1000 , RMSE_Test: 0.34645 , RMSE_Train: 0.40466 , est_time:   0.3 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  1e-05 epoch:  1343 , RMSE_Test: 0.29988 , RMSE_Train: 0.34493 , est_time:   0.4 min, average_time: 0.02 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  5e-05 epoch:     0 , RMSE_Test: 0.53327 , RMSE_Train: 0.37779 , est_time:   0.0 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  5e-05 epoch:   173 , RMSE_Test: 0.29993 , RMSE_Train: 0.34201 , est_time:   0.0 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  1e-06 epoch:     0 , RMSE_Test: 2.37734 , RMSE_Train: 2.24164 , est_time:   0.0 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  1e-06 epoch:  1000 , RMSE_Test: 0.47888 , RMSE_Train: 0.38899 , est_time:   0.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  1e-06 epoch:  2000 , RMSE_Test: 0.44937 , RMSE_Train: 0.41359 , est_time:   0.5 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  1e-06 epoch:  3000 , RMSE_Test: 0.41975 , RMSE_Train: 0.42933 , est_time:   0.7 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  1e-06 epoch:  4000 , RMSE_Test: 0.39084 , RMSE_Train: 0.42894 , est_time:   0.9 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  1e-06 epoch:  4363 , RMSE_Test: 0.38059 , RMSE_Train: 0.42590 , est_time:   1.0 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  5e-06 epoch:     0 , RMSE_Test: 0.52731 , RMSE_Train: 0.37239 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  5e-06 epoch:  1000 , RMSE_Test: 0.30912 , RMSE_Train: 0.28438 , est_time:   0.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  5e-06 epoch:  1089 , RMSE_Test: 0.29993 , RMSE_Train: 0.27276 , est_time:   0.2 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.1 epoch:     0 , RMSE_Test: 2.86793 , RMSE_Train: 2.94279 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.1 epoch:  1000 , RMSE_Test: 0.52856 , RMSE_Train: 0.57040 , est_time:   0.1 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.1 epoch:  2000 , RMSE_Test: 0.52438 , RMSE_Train: 0.57067 , est_time:   0.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.1 epoch:  3000 , RMSE_Test: 0.52420 , RMSE_Train: 0.57075 , est_time:   0.3 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.1 epoch:  4000 , RMSE_Test: 0.52411 , RMSE_Train: 0.57078 , est_time:   0.4 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.1 epoch:  5000 , RMSE_Test: 0.52378 , RMSE_Train: 0.57096 , est_time:   0.5 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.1 epoch:  6000 , RMSE_Test: 0.52379 , RMSE_Train: 0.57102 , est_time:   0.7 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.1 epoch:  7000 , RMSE_Test: 0.52378 , RMSE_Train: 0.57103 , est_time:   0.8 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.1 epoch:  8000 , RMSE_Test: 0.52378 , RMSE_Train: 0.57103 , est_time:   0.9 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.1 epoch:  9000 , RMSE_Test: 0.52378 , RMSE_Train: 0.57103 , est_time:   1.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.1 epoch:  9242 , RMSE_Test: 0.52378 , RMSE_Train: 0.57103 , est_time:   1.0 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.5 epoch:     0 , RMSE_Test: 5.14283 , RMSE_Train: 2.25956 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.5 epoch:  1000 , RMSE_Test: 0.52397 , RMSE_Train: 0.57098 , est_time:   0.1 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.5 epoch:  2000 , RMSE_Test: 0.52377 , RMSE_Train: 0.57103 , est_time:   0.3 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.5 epoch:  3000 , RMSE_Test: 0.70628 , RMSE_Train: 0.76697 , est_time:   0.4 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.5 epoch:  4000 , RMSE_Test: 0.72724 , RMSE_Train: 0.78376 , est_time:   0.6 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.5 epoch:  5000 , RMSE_Test: 0.53308 , RMSE_Train: 0.60194 , est_time:   0.8 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.5 epoch:  6000 , RMSE_Test: 0.52399 , RMSE_Train: 0.57085 , est_time:   1.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.5 epoch:  6237 , RMSE_Test: 0.52383 , RMSE_Train: 0.57102 , est_time:   1.0 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.01 epoch:     0 , RMSE_Test: 2.37543 , RMSE_Train: 3.35185 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.01 epoch:   299 , RMSE_Test: 0.29878 , RMSE_Train: 0.34449 , est_time:   0.1 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.05 epoch:     0 , RMSE_Test: 2.19513 , RMSE_Train: 2.25354 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.05 epoch:  1000 , RMSE_Test: 0.52417 , RMSE_Train: 0.57073 , est_time:   0.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.05 epoch:  2000 , RMSE_Test: 0.52372 , RMSE_Train: 0.57100 , est_time:   0.3 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.05 epoch:  3000 , RMSE_Test: 0.52393 , RMSE_Train: 0.57086 , est_time:   0.5 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.05 epoch:  4000 , RMSE_Test: 0.52372 , RMSE_Train: 0.57102 , est_time:   0.6 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.05 epoch:  5000 , RMSE_Test: 0.52373 , RMSE_Train: 0.57102 , est_time:   0.7 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.05 epoch:  6000 , RMSE_Test: 0.52374 , RMSE_Train: 0.57103 , est_time:   0.8 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.05 epoch:  7000 , RMSE_Test: 0.52378 , RMSE_Train: 0.57102 , est_time:   1.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.05 epoch:  7223 , RMSE_Test: 0.52380 , RMSE_Train: 0.57102 , est_time:   1.0 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.001 epoch:     0 , RMSE_Test: 0.98464 , RMSE_Train: 0.63895 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.001 epoch:   293 , RMSE_Test: 0.28467 , RMSE_Train: 0.35542 , est_time:   0.0 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.005 epoch:     0 , RMSE_Test: 1.17825 , RMSE_Train: 2.03733 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.005 epoch:   914 , RMSE_Test: 0.30000 , RMSE_Train: 0.40304 , est_time:   0.1 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch:     0 , RMSE_Test: 0.52462 , RMSE_Train: 0.92901 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch:   384 , RMSE_Test: 0.29974 , RMSE_Train: 0.35096 , est_time:   0.0 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0005 epoch:     0 , RMSE_Test: 2.46946 , RMSE_Train: 2.54871 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0005 epoch:   361 , RMSE_Test: 0.29732 , RMSE_Train: 0.33397 , est_time:   0.0 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  1e-05 epoch:     0 , RMSE_Test: 2.41329 , RMSE_Train: 2.53032 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  1e-05 epoch:  1000 , RMSE_Test: 0.39628 , RMSE_Train: 0.45001 , est_time:   0.1 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  1e-05 epoch:  1590 , RMSE_Test: 0.29985 , RMSE_Train: 0.36713 , est_time:   0.2 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  5e-05 epoch:     0 , RMSE_Test: 0.51477 , RMSE_Train: 0.56233 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  5e-05 epoch:   335 , RMSE_Test: 0.29969 , RMSE_Train: 0.32596 , est_time:   0.0 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  1e-06 epoch:     0 , RMSE_Test: 3.78750 , RMSE_Train: 3.78924 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  1e-06 epoch:  1000 , RMSE_Test: 0.51461 , RMSE_Train: 0.55969 , est_time:   0.1 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  1e-06 epoch:  2000 , RMSE_Test: 0.48873 , RMSE_Train: 0.53272 , est_time:   0.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  1e-06 epoch:  3000 , RMSE_Test: 0.46778 , RMSE_Train: 0.51517 , est_time:   0.3 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  1e-06 epoch:  4000 , RMSE_Test: 0.45250 , RMSE_Train: 0.50926 , est_time:   0.4 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  1e-06 epoch:  5000 , RMSE_Test: 0.43376 , RMSE_Train: 0.50107 , est_time:   0.5 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  1e-06 epoch:  6000 , RMSE_Test: 0.41064 , RMSE_Train: 0.48875 , est_time:   0.7 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  1e-06 epoch:  7000 , RMSE_Test: 0.39167 , RMSE_Train: 0.47938 , est_time:   0.8 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  1e-06 epoch:  8000 , RMSE_Test: 0.37399 , RMSE_Train: 0.46950 , est_time:   0.9 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  1e-06 epoch:  9000 , RMSE_Test: 0.35834 , RMSE_Train: 0.45982 , est_time:   1.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  1e-06 epoch:  9121 , RMSE_Test: 0.35663 , RMSE_Train: 0.45863 , est_time:   1.0 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  5e-06 epoch:     0 , RMSE_Test: 0.81737 , RMSE_Train: 0.86390 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  5e-06 epoch:  1000 , RMSE_Test: 0.44690 , RMSE_Train: 0.49338 , est_time:   0.1 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  5e-06 epoch:  2000 , RMSE_Test: 0.34456 , RMSE_Train: 0.40944 , est_time:   0.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  5e-06 epoch:  2670 , RMSE_Test: 0.29989 , RMSE_Train: 0.35914 , est_time:   0.3 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.1 epoch:     0 , RMSE_Test: 2.40817 , RMSE_Train: 110.26194 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.1 epoch:  1000 , RMSE_Test: 0.52379 , RMSE_Train: 0.57089 , est_time:   0.1 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.1 epoch:  2000 , RMSE_Test: 0.52372 , RMSE_Train: 0.57149 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.1 epoch:  3000 , RMSE_Test: 0.52373 , RMSE_Train: 0.57155 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.1 epoch:  4000 , RMSE_Test: 0.52372 , RMSE_Train: 0.57149 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.1 epoch:  5000 , RMSE_Test: 0.52395 , RMSE_Train: 0.57244 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.1 epoch:  6000 , RMSE_Test: 0.52379 , RMSE_Train: 0.57191 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.1 epoch:  7000 , RMSE_Test: 0.52374 , RMSE_Train: 0.57111 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.1 epoch:  8000 , RMSE_Test: 0.52377 , RMSE_Train: 0.57093 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.1 epoch:  9000 , RMSE_Test: 0.52377 , RMSE_Train: 0.57094 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.1 epoch: 10000 , RMSE_Test: 0.52377 , RMSE_Train: 0.57094 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.1 epoch: 11000 , RMSE_Test: 0.52377 , RMSE_Train: 0.57094 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.1 epoch: 12000 , RMSE_Test: 0.52377 , RMSE_Train: 0.57094 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.1 epoch: 13000 , RMSE_Test: 0.52377 , RMSE_Train: 0.57094 , est_time:   1.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.1 epoch: 13406 , RMSE_Test: 0.52377 , RMSE_Train: 0.57094 , est_time:   1.0 min, average_time: 0.00 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.5 epoch:     0 , RMSE_Test: 3.60673 , RMSE_Train: 135855.39607 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.5 epoch:  1000 , RMSE_Test: 4.58037 , RMSE_Train: 4.57365 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.5 epoch:  2000 , RMSE_Test: 3.53911 , RMSE_Train: 3.53450 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.5 epoch:  3000 , RMSE_Test: 1.18533 , RMSE_Train: 1.19629 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.5 epoch:  4000 , RMSE_Test: 0.52377 , RMSE_Train: 0.57055 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.5 epoch:  5000 , RMSE_Test: 0.52385 , RMSE_Train: 0.57074 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.5 epoch:  6000 , RMSE_Test: 0.52385 , RMSE_Train: 0.57074 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.5 epoch:  7000 , RMSE_Test: 0.52385 , RMSE_Train: 0.57075 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.5 epoch:  8000 , RMSE_Test: 0.52383 , RMSE_Train: 0.57079 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.5 epoch:  9000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57104 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.5 epoch: 10000 , RMSE_Test: 0.52380 , RMSE_Train: 0.57195 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.5 epoch: 11000 , RMSE_Test: 0.52381 , RMSE_Train: 0.57202 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.5 epoch: 12000 , RMSE_Test: 0.52381 , RMSE_Train: 0.57202 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.5 epoch: 13000 , RMSE_Test: 0.52381 , RMSE_Train: 0.57202 , est_time:   1.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.5 epoch: 13424 , RMSE_Test: 0.52381 , RMSE_Train: 0.57202 , est_time:   1.0 min, average_time: 0.00 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.01 epoch:     0 , RMSE_Test: 6.92747 , RMSE_Train: 17.56510 , est_time:   0.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.01 epoch:  1000 , RMSE_Test: 0.33820 , RMSE_Train: 0.38014 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.01 epoch:  1882 , RMSE_Test: 0.29694 , RMSE_Train: 0.37870 , est_time:   0.2 min, average_time: 0.00 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.05 epoch:     0 , RMSE_Test: 2.59952 , RMSE_Train: 31.33893 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.05 epoch:  1000 , RMSE_Test: 0.52386 , RMSE_Train: 0.57219 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.05 epoch:  2000 , RMSE_Test: 0.52378 , RMSE_Train: 0.57185 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.05 epoch:  3000 , RMSE_Test: 0.52378 , RMSE_Train: 0.57185 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.05 epoch:  4000 , RMSE_Test: 0.52373 , RMSE_Train: 0.57158 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.05 epoch:  5000 , RMSE_Test: 0.52372 , RMSE_Train: 0.57129 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.05 epoch:  6000 , RMSE_Test: 0.52373 , RMSE_Train: 0.57118 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.05 epoch:  7000 , RMSE_Test: 0.52373 , RMSE_Train: 0.57117 , est_time:   0.6 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.05 epoch:  8000 , RMSE_Test: 0.52373 , RMSE_Train: 0.57116 , est_time:   0.7 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.05 epoch:  9000 , RMSE_Test: 0.52373 , RMSE_Train: 0.57115 , est_time:   0.8 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.05 epoch: 10000 , RMSE_Test: 0.52373 , RMSE_Train: 0.57113 , est_time:   0.9 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.05 epoch: 11000 , RMSE_Test: 0.52373 , RMSE_Train: 0.57112 , est_time:   0.9 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.05 epoch: 11797 , RMSE_Test: 0.52374 , RMSE_Train: 0.57111 , est_time:   1.0 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch:     0 , RMSE_Test: 1.33482 , RMSE_Train: 1.94850 , est_time:   0.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch:   244 , RMSE_Test: 0.28681 , RMSE_Train: 0.39102 , est_time:   0.0 min, average_time: 0.00 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch:     0 , RMSE_Test: 2.71756 , RMSE_Train: 2.01053 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch:   364 , RMSE_Test: 0.29491 , RMSE_Train: 0.40340 , est_time:   0.0 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch:     0 , RMSE_Test: 0.79196 , RMSE_Train: 0.62944 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch:   358 , RMSE_Test: 0.29502 , RMSE_Train: 0.33369 , est_time:   0.0 min, average_time: 0.01 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch:     0 , RMSE_Test: 1.42207 , RMSE_Train: 0.75475 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch:   242 , RMSE_Test: 0.29901 , RMSE_Train: 0.33821 , est_time:   0.0 min, average_time: 0.00 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  1e-05 epoch:     0 , RMSE_Test: 3.93546 , RMSE_Train: 4.07968 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  1e-05 epoch:  1000 , RMSE_Test: 0.48000 , RMSE_Train: 0.52092 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  1e-05 epoch:  2000 , RMSE_Test: 0.40680 , RMSE_Train: 0.45415 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  1e-05 epoch:  2933 , RMSE_Test: 0.29946 , RMSE_Train: 0.34814 , est_time:   0.2 min, average_time: 0.00 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  5e-05 epoch:     0 , RMSE_Test: 3.48681 , RMSE_Train: 4.05464 , est_time:   0.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  5e-05 epoch:  1000 , RMSE_Test: 0.32219 , RMSE_Train: 0.35832 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  5e-05 epoch:  1116 , RMSE_Test: 0.29993 , RMSE_Train: 0.33340 , est_time:   0.1 min, average_time: 0.00 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  1e-06 epoch:     0 , RMSE_Test: 5.49274 , RMSE_Train: 5.49684 , est_time:   0.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  1e-06 epoch:  1000 , RMSE_Test: 0.52288 , RMSE_Train: 0.56837 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  1e-06 epoch:  2000 , RMSE_Test: 0.51449 , RMSE_Train: 0.55940 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  1e-06 epoch:  3000 , RMSE_Test: 0.50365 , RMSE_Train: 0.54662 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  1e-06 epoch:  4000 , RMSE_Test: 0.49128 , RMSE_Train: 0.53237 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  1e-06 epoch:  5000 , RMSE_Test: 0.47996 , RMSE_Train: 0.51901 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  1e-06 epoch:  6000 , RMSE_Test: 0.47231 , RMSE_Train: 0.51117 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  1e-06 epoch:  7000 , RMSE_Test: 0.46470 , RMSE_Train: 0.50562 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  1e-06 epoch:  8000 , RMSE_Test: 0.45517 , RMSE_Train: 0.49851 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  1e-06 epoch:  9000 , RMSE_Test: 0.44498 , RMSE_Train: 0.49124 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  1e-06 epoch: 10000 , RMSE_Test: 0.43370 , RMSE_Train: 0.48313 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  1e-06 epoch: 11000 , RMSE_Test: 0.42146 , RMSE_Train: 0.47423 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  1e-06 epoch: 12000 , RMSE_Test: 0.40876 , RMSE_Train: 0.46461 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  1e-06 epoch: 13000 , RMSE_Test: 0.39493 , RMSE_Train: 0.45415 , est_time:   1.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  1e-06 epoch: 13090 , RMSE_Test: 0.39379 , RMSE_Train: 0.45311 , est_time:   1.0 min, average_time: 0.00 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  5e-06 epoch:     0 , RMSE_Test: 0.61384 , RMSE_Train: 0.67585 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  5e-06 epoch:  1000 , RMSE_Test: 0.44058 , RMSE_Train: 0.47601 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  5e-06 epoch:  2000 , RMSE_Test: 0.35278 , RMSE_Train: 0.39331 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  5e-06 epoch:  2765 , RMSE_Test: 0.29975 , RMSE_Train: 0.33864 , est_time:   0.2 min, average_time: 0.00 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.1 epoch:     0 , RMSE_Test: 1604.91830 , RMSE_Train: 1883.99111 , est_time:   0.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.1 epoch:  1000 , RMSE_Test: 0.52941 , RMSE_Train: 0.57393 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.1 epoch:  2000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.1 epoch:  3000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.1 epoch:  4000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.1 epoch:  5000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.1 epoch:  6000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57052 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.1 epoch:  7000 , RMSE_Test: 0.52374 , RMSE_Train: 0.57053 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.1 epoch:  8000 , RMSE_Test: 0.52374 , RMSE_Train: 0.57056 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.1 epoch:  9000 , RMSE_Test: 0.52373 , RMSE_Train: 0.57059 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.1 epoch: 10000 , RMSE_Test: 0.52373 , RMSE_Train: 0.57060 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.1 epoch: 11000 , RMSE_Test: 0.52373 , RMSE_Train: 0.57060 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.1 epoch: 12000 , RMSE_Test: 0.52373 , RMSE_Train: 0.57060 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.1 epoch: 13000 , RMSE_Test: 0.52373 , RMSE_Train: 0.57060 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.1 epoch: 14000 , RMSE_Test: 0.52373 , RMSE_Train: 0.57060 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.1 epoch: 15000 , RMSE_Test: 0.52373 , RMSE_Train: 0.57060 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.1 epoch: 16000 , RMSE_Test: 0.52373 , RMSE_Train: 0.57060 , est_time:   1.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.1 epoch: 16752 , RMSE_Test: 0.52373 , RMSE_Train: 0.57060 , est_time:   1.0 min, average_time: 0.00 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.5 epoch:     0 , RMSE_Test: 113648.08447 , RMSE_Train: 5426112.51897 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.5 epoch:  1000 , RMSE_Test: 4.65079 , RMSE_Train: 4.64385 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.5 epoch:  2000 , RMSE_Test: 4.53031 , RMSE_Train: 4.52358 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.5 epoch:  3000 , RMSE_Test: 4.21179 , RMSE_Train: 4.20565 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.5 epoch:  4000 , RMSE_Test: 3.45492 , RMSE_Train: 3.45044 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.5 epoch:  5000 , RMSE_Test: 2.03728 , RMSE_Train: 2.03851 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.5 epoch:  6000 , RMSE_Test: 0.68016 , RMSE_Train: 0.70936 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.5 epoch:  7000 , RMSE_Test: 0.52372 , RMSE_Train: 0.57033 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.5 epoch:  8000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.5 epoch:  9000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.5 epoch: 10000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.5 epoch: 11000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.5 epoch: 12000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57052 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.5 epoch: 13000 , RMSE_Test: 0.52374 , RMSE_Train: 0.57053 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.5 epoch: 14000 , RMSE_Test: 0.52373 , RMSE_Train: 0.57057 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.5 epoch: 15000 , RMSE_Test: 0.52372 , RMSE_Train: 0.57072 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.5 epoch: 16000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57101 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.5 epoch: 17000 , RMSE_Test: 0.52377 , RMSE_Train: 0.57108 , est_time:   1.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.5 epoch: 17414 , RMSE_Test: 0.52377 , RMSE_Train: 0.57108 , est_time:   1.0 min, average_time: 0.00 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.01 epoch:     0 , RMSE_Test: 0.75259 , RMSE_Train: 24.88678 , est_time:   0.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.01 epoch:  1000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.01 epoch:  2000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.01 epoch:  3000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.01 epoch:  4000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57052 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.01 epoch:  5000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57052 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.01 epoch:  6000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57052 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.01 epoch:  7000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57052 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.01 epoch:  8000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57052 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.01 epoch:  9000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57052 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.01 epoch: 10000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57052 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.01 epoch: 11000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57052 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.01 epoch: 12000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57052 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.01 epoch: 13000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57052 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.01 epoch: 14000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57052 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.01 epoch: 15000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57052 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.01 epoch: 16000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57052 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.01 epoch: 17000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57052 , est_time:   1.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.01 epoch: 17530 , RMSE_Test: 0.52375 , RMSE_Train: 0.57052 , est_time:   1.0 min, average_time: 0.00 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.05 epoch:     0 , RMSE_Test: 10.13944 , RMSE_Train: 2610.21924 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.05 epoch:  1000 , RMSE_Test: 0.52372 , RMSE_Train: 0.57080 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.05 epoch:  2000 , RMSE_Test: 0.52378 , RMSE_Train: 0.57110 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.05 epoch:  3000 , RMSE_Test: 0.52377 , RMSE_Train: 0.57106 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.05 epoch:  4000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57099 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.05 epoch:  5000 , RMSE_Test: 0.52374 , RMSE_Train: 0.57094 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.05 epoch:  6000 , RMSE_Test: 0.52373 , RMSE_Train: 0.57090 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.05 epoch:  7000 , RMSE_Test: 0.52373 , RMSE_Train: 0.57085 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.05 epoch:  8000 , RMSE_Test: 0.52372 , RMSE_Train: 0.57081 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.05 epoch:  9000 , RMSE_Test: 0.52372 , RMSE_Train: 0.57075 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.05 epoch: 10000 , RMSE_Test: 0.52372 , RMSE_Train: 0.57071 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.05 epoch: 11000 , RMSE_Test: 0.52372 , RMSE_Train: 0.57070 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.05 epoch: 12000 , RMSE_Test: 0.52372 , RMSE_Train: 0.57070 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.05 epoch: 13000 , RMSE_Test: 0.52372 , RMSE_Train: 0.57070 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.05 epoch: 14000 , RMSE_Test: 0.52372 , RMSE_Train: 0.57069 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.05 epoch: 15000 , RMSE_Test: 0.52372 , RMSE_Train: 0.57069 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.05 epoch: 16000 , RMSE_Test: 0.52372 , RMSE_Train: 0.57069 , est_time:   1.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.05 epoch: 16337 , RMSE_Test: 0.52372 , RMSE_Train: 0.57068 , est_time:   1.0 min, average_time: 0.00 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch:     0 , RMSE_Test: 1.33566 , RMSE_Train: 4.29375 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch:   290 , RMSE_Test: 0.29696 , RMSE_Train: 0.37723 , est_time:   0.0 min, average_time: 0.00 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch:     0 , RMSE_Test: 2.06748 , RMSE_Train: 2.39809 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch:   424 , RMSE_Test: 0.29005 , RMSE_Train: 0.36977 , est_time:   0.0 min, average_time: 0.00 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch:     0 , RMSE_Test: 0.60890 , RMSE_Train: 1.12998 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch:   584 , RMSE_Test: 0.29942 , RMSE_Train: 0.34877 , est_time:   0.0 min, average_time: 0.00 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch:     0 , RMSE_Test: 0.71339 , RMSE_Train: 2.47138 , est_time:   0.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch:   301 , RMSE_Test: 0.29353 , RMSE_Train: 0.35613 , est_time:   0.0 min, average_time: 0.00 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-05 epoch:     0 , RMSE_Test: 1.46235 , RMSE_Train: 1.52556 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-05 epoch:  1000 , RMSE_Test: 0.44343 , RMSE_Train: 0.47892 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-05 epoch:  2000 , RMSE_Test: 0.36518 , RMSE_Train: 0.39529 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-05 epoch:  2846 , RMSE_Test: 0.29987 , RMSE_Train: 0.33135 , est_time:   0.2 min, average_time: 0.00 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  5e-05 epoch:     0 , RMSE_Test: 1.20643 , RMSE_Train: 1.61392 , est_time:   0.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  5e-05 epoch:   791 , RMSE_Test: 0.29922 , RMSE_Train: 0.33451 , est_time:   0.0 min, average_time: 0.00 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-06 epoch:     0 , RMSE_Test: 1.39911 , RMSE_Train: 1.42419 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-06 epoch:  1000 , RMSE_Test: 0.50302 , RMSE_Train: 0.54846 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-06 epoch:  2000 , RMSE_Test: 0.48870 , RMSE_Train: 0.53275 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-06 epoch:  3000 , RMSE_Test: 0.47550 , RMSE_Train: 0.51895 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-06 epoch:  4000 , RMSE_Test: 0.46406 , RMSE_Train: 0.50872 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-06 epoch:  5000 , RMSE_Test: 0.45148 , RMSE_Train: 0.49966 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-06 epoch:  6000 , RMSE_Test: 0.43760 , RMSE_Train: 0.48953 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-06 epoch:  7000 , RMSE_Test: 0.42308 , RMSE_Train: 0.47838 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-06 epoch:  8000 , RMSE_Test: 0.40828 , RMSE_Train: 0.46651 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-06 epoch:  9000 , RMSE_Test: 0.39329 , RMSE_Train: 0.45389 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-06 epoch: 10000 , RMSE_Test: 0.37854 , RMSE_Train: 0.44082 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-06 epoch: 11000 , RMSE_Test: 0.36398 , RMSE_Train: 0.42719 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-06 epoch: 12000 , RMSE_Test: 0.35035 , RMSE_Train: 0.41367 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-06 epoch: 13000 , RMSE_Test: 0.33802 , RMSE_Train: 0.40030 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-06 epoch: 14000 , RMSE_Test: 0.32653 , RMSE_Train: 0.38708 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-06 epoch: 15000 , RMSE_Test: 0.31642 , RMSE_Train: 0.37451 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-06 epoch: 16000 , RMSE_Test: 0.30812 , RMSE_Train: 0.36268 , est_time:   1.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  1e-06 epoch: 16308 , RMSE_Test: 0.30577 , RMSE_Train: 0.35925 , est_time:   1.0 min, average_time: 0.00 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  5e-06 epoch:     0 , RMSE_Test: 1.88524 , RMSE_Train: 1.93260 , est_time:   0.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  5e-06 epoch:  1000 , RMSE_Test: 0.48711 , RMSE_Train: 0.52734 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  5e-06 epoch:  2000 , RMSE_Test: 0.45228 , RMSE_Train: 0.49089 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  5e-06 epoch:  3000 , RMSE_Test: 0.40102 , RMSE_Train: 0.44483 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  5e-06 epoch:  4000 , RMSE_Test: 0.33870 , RMSE_Train: 0.38487 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  5e-06 epoch:  5000 , RMSE_Test: 0.30067 , RMSE_Train: 0.33553 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  5e-06 epoch:  5033 , RMSE_Test: 0.29998 , RMSE_Train: 0.33420 , est_time:   0.3 min, average_time: 0.00 s
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+These parameters showed the best performance!--------------------------------------------------------------------------------
+('my_results/model_1695782721_best_0.pt', ', layer_dim_list:', [2200, 100, 100, 10, 1], 'activateion:', 'ReLU', ', optimizer:', 'Adam', ', Bsize:', 8, ', learningRate:', 0.01, ', epoch:   679', ', passed_time: 0.293', 'm', ', minimum_RMSE: 0.07465', ', test_loss: 0.074646', ', train_loss: 0.186752', ', passed_time_accum: 2.293', 'm')
+all done
+
+start
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.001 epoch:     0 , RMSE_Test: 0.68100 , RMSE_Train: 0.83521 , est_time:   0.0 min, average_time: 0.04 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.001 epoch:  1000 , RMSE_Test: 0.24553 , RMSE_Train: 0.17549 , est_time:   0.4 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.001 epoch:  2000 , RMSE_Test: 0.21679 , RMSE_Train: 0.10633 , est_time:   0.7 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.001 epoch:  3000 , RMSE_Test: 0.25957 , RMSE_Train: 0.12737 , est_time:   1.1 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.001 epoch:  4000 , RMSE_Test: 0.26178 , RMSE_Train: 0.10929 , est_time:   1.5 min, average_time: 0.02 s
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.001 epoch:  4909 , RMSE_Test: 0.31904 , RMSE_Train: 0.16766 , est_time:   2.0 min, average_time: 0.02 s
+start to save model
+start to save log
+my_results/final_model_1695791446_best_0.19.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 0.001
+, epoch:  4909 , passed_time: 2.000 m , minimum_RMSE: 0.19805 , test_loss: 0.319041 , train_loss: 0.167660 , passed_time_accum: 2.000 m model_save_time 1695791446
+start to save figures
+
+saving work is done
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.001 epoch:     0 , RMSE_Test: 0.77106 , RMSE_Train: 1.16052 , est_time:   0.0 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.001 epoch:  1000 , RMSE_Test: 0.26168 , RMSE_Train: 0.14161 , est_time:   0.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.001 epoch:  2000 , RMSE_Test: 0.22248 , RMSE_Train: 0.14040 , est_time:   0.4 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.001 epoch:  3000 , RMSE_Test: 0.20385 , RMSE_Train: 0.14889 , est_time:   0.6 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.001 epoch:  4000 , RMSE_Test: 0.20590 , RMSE_Train: 0.15909 , est_time:   0.7 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.001 epoch:  5000 , RMSE_Test: 0.20854 , RMSE_Train: 0.15082 , est_time:   0.9 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.001 epoch:  6000 , RMSE_Test: 0.22355 , RMSE_Train: 0.12804 , est_time:   1.1 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.001 epoch:  7000 , RMSE_Test: 0.25197 , RMSE_Train: 0.13170 , est_time:   1.3 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.001 epoch:  8000 , RMSE_Test: 0.25017 , RMSE_Train: 0.14501 , est_time:   1.6 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.001 epoch:  9000 , RMSE_Test: 0.25050 , RMSE_Train: 0.14760 , est_time:   1.8 min, average_time: 0.01 s
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.001 epoch:  9611 , RMSE_Test: 0.24560 , RMSE_Train: 0.13130 , est_time:   2.0 min, average_time: 0.01 s
+start to save model
+start to save log
+my_results/final_model_1695791568_best_0.18.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 16 , learningRate: 0.001
+, epoch:  9611 , passed_time: 2.000 m , minimum_RMSE: 0.18525 , test_loss: 0.245605 , train_loss: 0.131297 , passed_time_accum: 4.036 m model_save_time 1695791568
+start to save figures
+
+saving work is done
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.001 epoch:     0 , RMSE_Test: 1.15420 , RMSE_Train: 1.52730 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.001 epoch:  1000 , RMSE_Test: 0.22515 , RMSE_Train: 0.31000 , est_time:   0.1 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.001 epoch:  2000 , RMSE_Test: 0.20599 , RMSE_Train: 0.27511 , est_time:   0.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.001 epoch:  3000 , RMSE_Test: 0.19911 , RMSE_Train: 0.28472 , est_time:   0.3 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.001 epoch:  4000 , RMSE_Test: 0.20668 , RMSE_Train: 0.26976 , est_time:   0.4 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.001 epoch:  5000 , RMSE_Test: 0.20005 , RMSE_Train: 0.27089 , est_time:   0.5 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.001 epoch:  6000 , RMSE_Test: 0.20228 , RMSE_Train: 0.27190 , est_time:   0.6 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.001 epoch:  7000 , RMSE_Test: 0.20857 , RMSE_Train: 0.27499 , est_time:   0.7 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.001 epoch:  8000 , RMSE_Test: 0.21305 , RMSE_Train: 0.26334 , est_time:   0.8 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.001 epoch:  9000 , RMSE_Test: 0.21916 , RMSE_Train: 0.25356 , est_time:   0.9 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.001 epoch: 10000 , RMSE_Test: 0.24644 , RMSE_Train: 0.22350 , est_time:   1.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.001 epoch: 11000 , RMSE_Test: 0.22818 , RMSE_Train: 0.26680 , est_time:   1.1 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.001 epoch: 12000 , RMSE_Test: 0.23000 , RMSE_Train: 0.25626 , est_time:   1.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.001 epoch: 13000 , RMSE_Test: 0.23026 , RMSE_Train: 0.24714 , est_time:   1.3 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.001 epoch: 14000 , RMSE_Test: 0.23082 , RMSE_Train: 0.24300 , est_time:   1.4 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.001 epoch: 15000 , RMSE_Test: 0.23598 , RMSE_Train: 0.23865 , est_time:   1.6 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.001 epoch: 16000 , RMSE_Test: 0.24042 , RMSE_Train: 0.23741 , est_time:   1.7 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.001 epoch: 17000 , RMSE_Test: 0.24428 , RMSE_Train: 0.23196 , est_time:   1.9 min, average_time: 0.01 s
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.001 epoch: 17903 , RMSE_Test: 0.25666 , RMSE_Train: 0.22235 , est_time:   2.0 min, average_time: 0.01 s
+start to save model
+start to save log
+my_results/final_model_1695791689_best_0.18.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 32 , learningRate: 0.001
+, epoch: 17903 , passed_time: 2.000 m , minimum_RMSE: 0.18525 , test_loss: 0.256665 , train_loss: 0.222355 , passed_time_accum: 6.046 m model_save_time 1695791689
+start to save figures
+
+saving work is done
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch:     0 , RMSE_Test: 0.98194 , RMSE_Train: 0.57411 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch:  1000 , RMSE_Test: 0.22578 , RMSE_Train: 0.28870 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch:  2000 , RMSE_Test: 0.28561 , RMSE_Train: 0.26686 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch:  3000 , RMSE_Test: 0.27246 , RMSE_Train: 0.27537 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch:  4000 , RMSE_Test: 0.22353 , RMSE_Train: 0.23946 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch:  5000 , RMSE_Test: 0.21482 , RMSE_Train: 0.24493 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch:  6000 , RMSE_Test: 0.21415 , RMSE_Train: 0.20517 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch:  7000 , RMSE_Test: 0.25514 , RMSE_Train: 0.22251 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch:  8000 , RMSE_Test: 0.24812 , RMSE_Train: 0.22196 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch:  9000 , RMSE_Test: 0.24771 , RMSE_Train: 0.21635 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch: 10000 , RMSE_Test: 0.24289 , RMSE_Train: 0.20873 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch: 11000 , RMSE_Test: 0.25239 , RMSE_Train: 0.21634 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch: 12000 , RMSE_Test: 0.23947 , RMSE_Train: 0.20576 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch: 13000 , RMSE_Test: 0.24716 , RMSE_Train: 0.20494 , est_time:   1.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch: 14000 , RMSE_Test: 0.23728 , RMSE_Train: 0.21125 , est_time:   1.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch: 15000 , RMSE_Test: 0.24066 , RMSE_Train: 0.21777 , est_time:   1.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch: 16000 , RMSE_Test: 0.26663 , RMSE_Train: 0.18294 , est_time:   1.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch: 17000 , RMSE_Test: 0.25631 , RMSE_Train: 0.18851 , est_time:   1.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch: 18000 , RMSE_Test: 0.27379 , RMSE_Train: 0.18352 , est_time:   1.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch: 19000 , RMSE_Test: 0.26993 , RMSE_Train: 0.18513 , est_time:   1.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch: 20000 , RMSE_Test: 0.26207 , RMSE_Train: 0.17930 , est_time:   1.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch: 21000 , RMSE_Test: 0.26496 , RMSE_Train: 0.19248 , est_time:   1.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch: 22000 , RMSE_Test: 0.27887 , RMSE_Train: 0.17401 , est_time:   1.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch: 23000 , RMSE_Test: 0.26017 , RMSE_Train: 0.20098 , est_time:   1.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch: 24000 , RMSE_Test: 0.26920 , RMSE_Train: 0.18410 , est_time:   1.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch: 25000 , RMSE_Test: 0.26391 , RMSE_Train: 0.18522 , est_time:   1.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch: 26000 , RMSE_Test: 0.30705 , RMSE_Train: 0.17264 , est_time:   1.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch: 27000 , RMSE_Test: 0.28717 , RMSE_Train: 0.17503 , est_time:   2.0 min, average_time: 0.00 s
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.001 epoch: 27039 , RMSE_Test: 0.26903 , RMSE_Train: 0.17385 , est_time:   2.0 min, average_time: 0.00 s
+start to save model
+start to save log
+my_results/final_model_1695791810_best_0.18.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 64 , learningRate: 0.001
+, epoch: 27039 , passed_time: 2.000 m , minimum_RMSE: 0.18525 , test_loss: 0.269027 , train_loss: 0.173852 , passed_time_accum: 8.058 m model_save_time 1695791810
+start to save figures
+
+saving work is done
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch:     0 , RMSE_Test: 0.53836 , RMSE_Train: 0.81909 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch:  1000 , RMSE_Test: 0.31836 , RMSE_Train: 0.28680 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch:  2000 , RMSE_Test: 0.22394 , RMSE_Train: 0.19937 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch:  3000 , RMSE_Test: 0.21905 , RMSE_Train: 0.26242 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch:  4000 , RMSE_Test: 0.35817 , RMSE_Train: 0.36695 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch:  5000 , RMSE_Test: 0.22120 , RMSE_Train: 0.18523 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch:  6000 , RMSE_Test: 0.24877 , RMSE_Train: 0.23349 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch:  7000 , RMSE_Test: 0.22214 , RMSE_Train: 0.16642 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch:  8000 , RMSE_Test: 0.24091 , RMSE_Train: 0.18119 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch:  9000 , RMSE_Test: 0.22663 , RMSE_Train: 0.16327 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 10000 , RMSE_Test: 0.22841 , RMSE_Train: 0.16437 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 11000 , RMSE_Test: 0.23326 , RMSE_Train: 0.17481 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 12000 , RMSE_Test: 0.26712 , RMSE_Train: 0.22106 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 13000 , RMSE_Test: 0.24302 , RMSE_Train: 0.15934 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 14000 , RMSE_Test: 0.24455 , RMSE_Train: 0.16620 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 15000 , RMSE_Test: 0.24864 , RMSE_Train: 0.15849 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 16000 , RMSE_Test: 0.25063 , RMSE_Train: 0.16039 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 17000 , RMSE_Test: 0.25262 , RMSE_Train: 0.15722 , est_time:   1.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 18000 , RMSE_Test: 0.25039 , RMSE_Train: 0.15786 , est_time:   1.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 19000 , RMSE_Test: 0.25363 , RMSE_Train: 0.15317 , est_time:   1.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 20000 , RMSE_Test: 0.25536 , RMSE_Train: 0.16203 , est_time:   1.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 21000 , RMSE_Test: 0.25511 , RMSE_Train: 0.15538 , est_time:   1.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 22000 , RMSE_Test: 0.26177 , RMSE_Train: 0.15327 , est_time:   1.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 23000 , RMSE_Test: 0.30203 , RMSE_Train: 0.24433 , est_time:   1.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 24000 , RMSE_Test: 0.30923 , RMSE_Train: 0.17458 , est_time:   1.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 25000 , RMSE_Test: 0.32415 , RMSE_Train: 0.15813 , est_time:   1.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 26000 , RMSE_Test: 0.33569 , RMSE_Train: 0.18961 , est_time:   1.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 27000 , RMSE_Test: 0.33699 , RMSE_Train: 0.15162 , est_time:   1.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 28000 , RMSE_Test: 0.34126 , RMSE_Train: 0.16022 , est_time:   1.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 29000 , RMSE_Test: 0.34418 , RMSE_Train: 0.15262 , est_time:   1.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 30000 , RMSE_Test: 0.34511 , RMSE_Train: 0.14998 , est_time:   1.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 31000 , RMSE_Test: 0.34255 , RMSE_Train: 0.15035 , est_time:   1.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 32000 , RMSE_Test: 0.35215 , RMSE_Train: 0.16801 , est_time:   1.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 33000 , RMSE_Test: 0.32611 , RMSE_Train: 0.17258 , est_time:   1.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 34000 , RMSE_Test: 0.35084 , RMSE_Train: 0.15980 , est_time:   1.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 35000 , RMSE_Test: 0.33743 , RMSE_Train: 0.14926 , est_time:   2.0 min, average_time: 0.00 s
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.001 epoch: 35500 , RMSE_Test: 0.35186 , RMSE_Train: 0.14793 , est_time:   2.0 min, average_time: 0.00 s
+start to save model
+start to save log
+my_results/final_model_1695791931_best_0.18.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 128 , learningRate: 0.001
+, epoch: 35500 , passed_time: 2.000 m , minimum_RMSE: 0.18525 , test_loss: 0.351863 , train_loss: 0.147929 , passed_time_accum: 10.072 m model_save_time 1695791931
+start to save figures
+
+saving work is done
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.005 epoch:     0 , RMSE_Test: 0.53055 , RMSE_Train: 0.55330 , est_time:   0.0 min, average_time: 0.03 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.005 epoch:  1000 , RMSE_Test: 0.40698 , RMSE_Train: 0.17247 , est_time:   0.4 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.005 epoch:  2000 , RMSE_Test: 0.21776 , RMSE_Train: 0.13615 , est_time:   0.7 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.005 epoch:  3000 , RMSE_Test: 0.33001 , RMSE_Train: 0.21664 , est_time:   1.1 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.005 epoch:  4000 , RMSE_Test: 0.52390 , RMSE_Train: 0.51801 , est_time:   1.5 min, average_time: 0.02 s
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.005 epoch:  4809 , RMSE_Test: 0.52390 , RMSE_Train: 0.51801 , est_time:   2.0 min, average_time: 0.02 s
+start to save model
+start to save log
+my_results/final_model_1695792051_best_0.18.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 0.005
+, epoch:  4809 , passed_time: 2.001 m , minimum_RMSE: 0.18525 , test_loss: 0.523903 , train_loss: 0.518010 , passed_time_accum: 12.085 m model_save_time 1695792051
+start to save figures
+
+saving work is done
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.005 epoch:     0 , RMSE_Test: 1.53312 , RMSE_Train: 1.89239 , est_time:   0.0 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.005 epoch:  1000 , RMSE_Test: 0.24809 , RMSE_Train: 0.16520 , est_time:   0.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.005 epoch:  2000 , RMSE_Test: 0.21123 , RMSE_Train: 0.15247 , est_time:   0.4 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.005 epoch:  3000 , RMSE_Test: 0.37911 , RMSE_Train: 0.30388 , est_time:   0.6 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.005 epoch:  4000 , RMSE_Test: 0.31769 , RMSE_Train: 0.27442 , est_time:   0.8 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.005 epoch:  5000 , RMSE_Test: 0.52387 , RMSE_Train: 0.40496 , est_time:   1.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.005 epoch:  6000 , RMSE_Test: 0.52387 , RMSE_Train: 0.40496 , est_time:   1.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.005 epoch:  7000 , RMSE_Test: 0.52387 , RMSE_Train: 0.40496 , est_time:   1.4 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.005 epoch:  8000 , RMSE_Test: 0.52387 , RMSE_Train: 0.40496 , est_time:   1.7 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.005 epoch:  9000 , RMSE_Test: 0.52387 , RMSE_Train: 0.40496 , est_time:   2.0 min, average_time: 0.01 s
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.005 epoch:  9091 , RMSE_Test: 0.52387 , RMSE_Train: 0.40496 , est_time:   2.0 min, average_time: 0.01 s
+start to save model
+start to save log
+my_results/final_model_1695792172_best_0.18.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 16 , learningRate: 0.005
+, epoch:  9091 , passed_time: 2.000 m , minimum_RMSE: 0.18525 , test_loss: 0.523874 , train_loss: 0.404957 , passed_time_accum: 14.097 m model_save_time 1695792172
+start to save figures
+
+saving work is done
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.005 epoch:     0 , RMSE_Test: 2.36734 , RMSE_Train: 0.56938 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.005 epoch:  1000 , RMSE_Test: 0.24906 , RMSE_Train: 0.36128 , est_time:   0.1 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.005 epoch:  2000 , RMSE_Test: 0.24193 , RMSE_Train: 0.29853 , est_time:   0.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.005 epoch:  3000 , RMSE_Test: 0.22207 , RMSE_Train: 0.33340 , est_time:   0.3 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.005 epoch:  4000 , RMSE_Test: 0.20750 , RMSE_Train: 0.34606 , est_time:   0.5 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.005 epoch:  5000 , RMSE_Test: 0.23916 , RMSE_Train: 0.27569 , est_time:   0.6 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.005 epoch:  6000 , RMSE_Test: 0.22734 , RMSE_Train: 0.25926 , est_time:   0.7 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.005 epoch:  7000 , RMSE_Test: 0.21599 , RMSE_Train: 0.28865 , est_time:   0.8 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.005 epoch:  8000 , RMSE_Test: 0.23293 , RMSE_Train: 0.26907 , est_time:   0.9 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.005 epoch:  9000 , RMSE_Test: 0.35936 , RMSE_Train: 0.41650 , est_time:   1.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.005 epoch: 10000 , RMSE_Test: 0.22754 , RMSE_Train: 0.28413 , est_time:   1.1 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.005 epoch: 11000 , RMSE_Test: 0.22733 , RMSE_Train: 0.27314 , est_time:   1.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.005 epoch: 12000 , RMSE_Test: 0.23813 , RMSE_Train: 0.25125 , est_time:   1.3 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.005 epoch: 13000 , RMSE_Test: 0.23026 , RMSE_Train: 0.24619 , est_time:   1.5 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.005 epoch: 14000 , RMSE_Test: 0.22786 , RMSE_Train: 0.27025 , est_time:   1.6 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.005 epoch: 15000 , RMSE_Test: 0.23289 , RMSE_Train: 0.24712 , est_time:   1.7 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.005 epoch: 16000 , RMSE_Test: 0.23815 , RMSE_Train: 0.24603 , est_time:   1.8 min, average_time: 0.01 s
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.005 epoch: 16903 , RMSE_Test: 0.23563 , RMSE_Train: 0.26511 , est_time:   2.0 min, average_time: 0.01 s
+start to save model
+start to save log
+my_results/final_model_1695792293_best_0.18.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 32 , learningRate: 0.005
+, epoch: 16903 , passed_time: 2.000 m , minimum_RMSE: 0.18525 , test_loss: 0.235627 , train_loss: 0.265108 , passed_time_accum: 16.107 m model_save_time 1695792293
+start to save figures
+
+saving work is done
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch:     0 , RMSE_Test: 6.65695 , RMSE_Train: 17.92075 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch:  1000 , RMSE_Test: 0.24032 , RMSE_Train: 0.32706 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch:  2000 , RMSE_Test: 0.32772 , RMSE_Train: 0.40346 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch:  3000 , RMSE_Test: 0.29831 , RMSE_Train: 0.35615 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch:  4000 , RMSE_Test: 0.29719 , RMSE_Train: 0.35796 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch:  5000 , RMSE_Test: 0.29679 , RMSE_Train: 0.35865 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch:  6000 , RMSE_Test: 0.29776 , RMSE_Train: 0.35717 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch:  7000 , RMSE_Test: 0.29844 , RMSE_Train: 0.35399 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch:  8000 , RMSE_Test: 0.30234 , RMSE_Train: 0.35311 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch:  9000 , RMSE_Test: 0.30555 , RMSE_Train: 0.35137 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch: 10000 , RMSE_Test: 0.30907 , RMSE_Train: 0.34942 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch: 11000 , RMSE_Test: 0.29898 , RMSE_Train: 0.33225 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch: 12000 , RMSE_Test: 0.28063 , RMSE_Train: 0.28596 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch: 13000 , RMSE_Test: 0.26538 , RMSE_Train: 0.27849 , est_time:   1.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch: 14000 , RMSE_Test: 0.25972 , RMSE_Train: 0.28337 , est_time:   1.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch: 15000 , RMSE_Test: 0.25837 , RMSE_Train: 0.25988 , est_time:   1.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch: 16000 , RMSE_Test: 0.25080 , RMSE_Train: 0.28624 , est_time:   1.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch: 17000 , RMSE_Test: 0.25203 , RMSE_Train: 0.25469 , est_time:   1.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch: 18000 , RMSE_Test: 0.25395 , RMSE_Train: 0.26094 , est_time:   1.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch: 19000 , RMSE_Test: 0.25227 , RMSE_Train: 0.24412 , est_time:   1.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch: 20000 , RMSE_Test: 0.52381 , RMSE_Train: 0.57083 , est_time:   1.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch: 21000 , RMSE_Test: 0.52380 , RMSE_Train: 0.57086 , est_time:   1.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch: 22000 , RMSE_Test: 0.52380 , RMSE_Train: 0.57086 , est_time:   1.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch: 23000 , RMSE_Test: 0.52380 , RMSE_Train: 0.57086 , est_time:   1.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch: 24000 , RMSE_Test: 0.52380 , RMSE_Train: 0.57086 , est_time:   1.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch: 25000 , RMSE_Test: 0.52380 , RMSE_Train: 0.57086 , est_time:   1.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch: 26000 , RMSE_Test: 0.52380 , RMSE_Train: 0.57086 , est_time:   2.0 min, average_time: 0.00 s
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.005 epoch: 26173 , RMSE_Test: 0.52380 , RMSE_Train: 0.57086 , est_time:   2.0 min, average_time: 0.00 s
+start to save model
+start to save log
+my_results/final_model_1695792413_best_0.18.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 64 , learningRate: 0.005
+, epoch: 26173 , passed_time: 2.000 m , minimum_RMSE: 0.18525 , test_loss: 0.523800 , train_loss: 0.570859 , passed_time_accum: 18.119 m model_save_time 1695792413
+start to save figures
+
+saving work is done
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch:     0 , RMSE_Test: 3.04290 , RMSE_Train: 11.66300 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch:  1000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch:  2000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch:  3000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch:  4000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch:  5000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch:  6000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch:  7000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch:  8000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch:  9000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 10000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 11000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 12000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 13000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 14000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 15000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 16000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 17000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   1.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 18000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   1.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 19000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   1.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 20000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   1.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 21000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   1.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 22000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   1.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 23000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   1.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 24000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   1.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 25000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   1.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 26000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   1.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 27000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   1.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 28000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   1.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 29000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   1.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 30000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   1.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 31000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   1.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 32000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   1.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 33000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   1.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 34000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   1.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 35000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   1.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 36000 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   2.0 min, average_time: 0.00 s
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.005 epoch: 36453 , RMSE_Test: 0.52375 , RMSE_Train: 0.57051 , est_time:   2.0 min, average_time: 0.00 s
+start to save model
+start to save log
+my_results/final_model_1695792534_best_0.18.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 128 , learningRate: 0.005
+, epoch: 36453 , passed_time: 2.000 m , minimum_RMSE: 0.18525 , test_loss: 0.523750 , train_loss: 0.570514 , passed_time_accum: 20.134 m model_save_time 1695792534
+start to save figures
+
+saving work is done
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.0001 epoch:     0 , RMSE_Test: 1.16233 , RMSE_Train: 1.13200 , est_time:   0.0 min, average_time: 0.03 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.0001 epoch:  1000 , RMSE_Test: 0.23178 , RMSE_Train: 0.03425 , est_time:   0.4 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.0001 epoch:  2000 , RMSE_Test: 0.19669 , RMSE_Train: 0.01362 , est_time:   0.7 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.0001 epoch:  3000 , RMSE_Test: 0.31994 , RMSE_Train: 0.19702 , est_time:   1.1 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.0001 epoch:  4000 , RMSE_Test: 0.20137 , RMSE_Train: 0.08696 , est_time:   1.5 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.0001 epoch:  5000 , RMSE_Test: 0.19983 , RMSE_Train: 0.03699 , est_time:   2.0 min, average_time: 0.02 s
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.0001 epoch:  5093 , RMSE_Test: 0.18404 , RMSE_Train: 0.05588 , est_time:   2.0 min, average_time: 0.02 s
+start to save model
+start to save log
+my_results/final_model_1695792655_best_0.17.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 0.0001
+, epoch:  5093 , passed_time: 2.000 m , minimum_RMSE: 0.17702 , test_loss: 0.184040 , train_loss: 0.055877 , passed_time_accum: 22.146 m model_save_time 1695792655
+start to save figures
+
+saving work is done
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0001 epoch:     0 , RMSE_Test: 0.52842 , RMSE_Train: 0.45058 , est_time:   0.0 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0001 epoch:  1000 , RMSE_Test: 0.21034 , RMSE_Train: 0.13919 , est_time:   0.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0001 epoch:  2000 , RMSE_Test: 0.21338 , RMSE_Train: 0.16078 , est_time:   0.4 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0001 epoch:  3000 , RMSE_Test: 0.19664 , RMSE_Train: 0.13003 , est_time:   0.6 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0001 epoch:  4000 , RMSE_Test: 0.29123 , RMSE_Train: 0.26973 , est_time:   0.8 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0001 epoch:  5000 , RMSE_Test: 0.21193 , RMSE_Train: 0.12590 , est_time:   1.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0001 epoch:  6000 , RMSE_Test: 0.27140 , RMSE_Train: 0.21661 , est_time:   1.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0001 epoch:  7000 , RMSE_Test: 0.22475 , RMSE_Train: 0.13266 , est_time:   1.4 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0001 epoch:  8000 , RMSE_Test: 0.25161 , RMSE_Train: 0.14474 , est_time:   1.6 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0001 epoch:  9000 , RMSE_Test: 0.24015 , RMSE_Train: 0.06976 , est_time:   1.8 min, average_time: 0.01 s
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0001 epoch:  9673 , RMSE_Test: 0.22890 , RMSE_Train: 0.14417 , est_time:   2.0 min, average_time: 0.01 s
+start to save model
+start to save log
+my_results/final_model_1695792776_best_0.17.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 16 , learningRate: 0.0001
+, epoch:  9673 , passed_time: 2.000 m , minimum_RMSE: 0.17702 , test_loss: 0.228903 , train_loss: 0.144172 , passed_time_accum: 24.163 m model_save_time 1695792776
+start to save figures
+
+saving work is done
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch:     0 , RMSE_Test: 0.65235 , RMSE_Train: 0.72793 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch:  1000 , RMSE_Test: 0.22579 , RMSE_Train: 0.28686 , est_time:   0.1 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch:  2000 , RMSE_Test: 0.19429 , RMSE_Train: 0.27469 , est_time:   0.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch:  3000 , RMSE_Test: 0.18976 , RMSE_Train: 0.25534 , est_time:   0.3 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch:  4000 , RMSE_Test: 0.19926 , RMSE_Train: 0.25383 , est_time:   0.4 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch:  5000 , RMSE_Test: 0.19178 , RMSE_Train: 0.22010 , est_time:   0.5 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch:  6000 , RMSE_Test: 0.19344 , RMSE_Train: 0.25621 , est_time:   0.6 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch:  7000 , RMSE_Test: 0.20334 , RMSE_Train: 0.27423 , est_time:   0.7 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch:  8000 , RMSE_Test: 0.22558 , RMSE_Train: 0.20109 , est_time:   0.8 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch:  9000 , RMSE_Test: 0.19784 , RMSE_Train: 0.18176 , est_time:   0.9 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch: 10000 , RMSE_Test: 0.24349 , RMSE_Train: 0.17632 , est_time:   1.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch: 11000 , RMSE_Test: 0.21185 , RMSE_Train: 0.20889 , est_time:   1.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch: 12000 , RMSE_Test: 0.21557 , RMSE_Train: 0.18184 , est_time:   1.3 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch: 13000 , RMSE_Test: 0.21208 , RMSE_Train: 0.16137 , est_time:   1.4 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch: 14000 , RMSE_Test: 0.21517 , RMSE_Train: 0.17042 , est_time:   1.5 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch: 15000 , RMSE_Test: 0.22829 , RMSE_Train: 0.16273 , est_time:   1.6 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch: 16000 , RMSE_Test: 0.21803 , RMSE_Train: 0.14131 , est_time:   1.7 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch: 17000 , RMSE_Test: 0.22501 , RMSE_Train: 0.24456 , est_time:   1.8 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch: 18000 , RMSE_Test: 0.21732 , RMSE_Train: 0.16212 , est_time:   2.0 min, average_time: 0.01 s
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0001 epoch: 18379 , RMSE_Test: 0.22693 , RMSE_Train: 0.17411 , est_time:   2.0 min, average_time: 0.01 s
+start to save model
+start to save log
+my_results/final_model_1695792897_best_0.17.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 32 , learningRate: 0.0001
+, epoch: 18379 , passed_time: 2.000 m , minimum_RMSE: 0.17177 , test_loss: 0.226928 , train_loss: 0.174108 , passed_time_accum: 26.175 m model_save_time 1695792897
+start to save figures
+
+saving work is done
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch:     0 , RMSE_Test: 1.19094 , RMSE_Train: 1.45957 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch:  1000 , RMSE_Test: 0.25363 , RMSE_Train: 0.26468 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch:  2000 , RMSE_Test: 0.23472 , RMSE_Train: 0.24522 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch:  3000 , RMSE_Test: 0.21845 , RMSE_Train: 0.22746 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch:  4000 , RMSE_Test: 0.21070 , RMSE_Train: 0.21986 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch:  5000 , RMSE_Test: 0.21447 , RMSE_Train: 0.21499 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch:  6000 , RMSE_Test: 0.20582 , RMSE_Train: 0.21026 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch:  7000 , RMSE_Test: 0.21931 , RMSE_Train: 0.19891 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch:  8000 , RMSE_Test: 0.23960 , RMSE_Train: 0.19156 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch:  9000 , RMSE_Test: 0.23171 , RMSE_Train: 0.19252 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch: 10000 , RMSE_Test: 0.23394 , RMSE_Train: 0.18081 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch: 11000 , RMSE_Test: 0.24457 , RMSE_Train: 0.17629 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch: 12000 , RMSE_Test: 0.22908 , RMSE_Train: 0.17109 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch: 13000 , RMSE_Test: 0.23157 , RMSE_Train: 0.16888 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch: 14000 , RMSE_Test: 0.22793 , RMSE_Train: 0.16223 , est_time:   1.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch: 15000 , RMSE_Test: 0.22779 , RMSE_Train: 0.14600 , est_time:   1.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch: 16000 , RMSE_Test: 0.24015 , RMSE_Train: 0.17167 , est_time:   1.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch: 17000 , RMSE_Test: 0.22235 , RMSE_Train: 0.15323 , est_time:   1.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch: 18000 , RMSE_Test: 0.21969 , RMSE_Train: 0.12856 , est_time:   1.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch: 19000 , RMSE_Test: 0.22755 , RMSE_Train: 0.13416 , est_time:   1.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch: 20000 , RMSE_Test: 0.22793 , RMSE_Train: 0.12324 , est_time:   1.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch: 21000 , RMSE_Test: 0.23159 , RMSE_Train: 0.12213 , est_time:   1.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch: 22000 , RMSE_Test: 0.22596 , RMSE_Train: 0.15218 , est_time:   1.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch: 23000 , RMSE_Test: 0.24684 , RMSE_Train: 0.12560 , est_time:   1.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch: 24000 , RMSE_Test: 0.22645 , RMSE_Train: 0.12982 , est_time:   1.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch: 25000 , RMSE_Test: 0.22612 , RMSE_Train: 0.10069 , est_time:   1.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch: 26000 , RMSE_Test: 0.22323 , RMSE_Train: 0.12196 , est_time:   1.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch: 27000 , RMSE_Test: 0.23284 , RMSE_Train: 0.11791 , est_time:   1.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch: 28000 , RMSE_Test: 0.23451 , RMSE_Train: 0.12350 , est_time:   2.0 min, average_time: 0.00 s
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0001 epoch: 28059 , RMSE_Test: 0.23998 , RMSE_Train: 0.10356 , est_time:   2.0 min, average_time: 0.00 s
+start to save model
+start to save log
+my_results/final_model_1695793017_best_0.17.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 64 , learningRate: 0.0001
+, epoch: 28059 , passed_time: 2.000 m , minimum_RMSE: 0.17177 , test_loss: 0.239975 , train_loss: 0.103559 , passed_time_accum: 28.186 m model_save_time 1695793017
+start to save figures
+
+saving work is done
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch:     0 , RMSE_Test: 0.58458 , RMSE_Train: 0.56915 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch:  1000 , RMSE_Test: 0.26014 , RMSE_Train: 0.24845 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch:  2000 , RMSE_Test: 0.22769 , RMSE_Train: 0.20706 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch:  3000 , RMSE_Test: 0.21488 , RMSE_Train: 0.19616 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch:  4000 , RMSE_Test: 0.21538 , RMSE_Train: 0.19695 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch:  5000 , RMSE_Test: 0.21435 , RMSE_Train: 0.17414 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch:  6000 , RMSE_Test: 0.25955 , RMSE_Train: 0.17896 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch:  7000 , RMSE_Test: 0.22056 , RMSE_Train: 0.19850 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch:  8000 , RMSE_Test: 0.21416 , RMSE_Train: 0.14507 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch:  9000 , RMSE_Test: 0.21731 , RMSE_Train: 0.12939 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 10000 , RMSE_Test: 0.21836 , RMSE_Train: 0.13440 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 11000 , RMSE_Test: 0.21828 , RMSE_Train: 0.13937 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 12000 , RMSE_Test: 0.19044 , RMSE_Train: 0.15186 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 13000 , RMSE_Test: 0.21099 , RMSE_Train: 0.13353 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 14000 , RMSE_Test: 0.22273 , RMSE_Train: 0.13691 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 15000 , RMSE_Test: 0.24038 , RMSE_Train: 0.11481 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 16000 , RMSE_Test: 0.24532 , RMSE_Train: 0.14104 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 17000 , RMSE_Test: 0.24479 , RMSE_Train: 0.13829 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 18000 , RMSE_Test: 0.24892 , RMSE_Train: 0.12280 , est_time:   1.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 19000 , RMSE_Test: 0.25257 , RMSE_Train: 0.16026 , est_time:   1.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 20000 , RMSE_Test: 0.25439 , RMSE_Train: 0.13200 , est_time:   1.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 21000 , RMSE_Test: 0.25725 , RMSE_Train: 0.11373 , est_time:   1.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 22000 , RMSE_Test: 0.26388 , RMSE_Train: 0.11136 , est_time:   1.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 23000 , RMSE_Test: 0.25767 , RMSE_Train: 0.09825 , est_time:   1.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 24000 , RMSE_Test: 0.25721 , RMSE_Train: 0.09871 , est_time:   1.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 25000 , RMSE_Test: 0.25308 , RMSE_Train: 0.10851 , est_time:   1.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 26000 , RMSE_Test: 0.25457 , RMSE_Train: 0.09354 , est_time:   1.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 27000 , RMSE_Test: 0.26029 , RMSE_Train: 0.07519 , est_time:   1.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 28000 , RMSE_Test: 0.25952 , RMSE_Train: 0.06986 , est_time:   1.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 29000 , RMSE_Test: 0.26162 , RMSE_Train: 0.10283 , est_time:   1.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 30000 , RMSE_Test: 0.26337 , RMSE_Train: 0.09771 , est_time:   1.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 31000 , RMSE_Test: 0.25004 , RMSE_Train: 0.24783 , est_time:   1.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 32000 , RMSE_Test: 0.25141 , RMSE_Train: 0.16694 , est_time:   1.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 33000 , RMSE_Test: 0.26472 , RMSE_Train: 0.14465 , est_time:   1.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 34000 , RMSE_Test: 0.27249 , RMSE_Train: 0.13359 , est_time:   1.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 35000 , RMSE_Test: 0.28055 , RMSE_Train: 0.11807 , est_time:   1.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 36000 , RMSE_Test: 0.28648 , RMSE_Train: 0.11927 , est_time:   1.9 min, average_time: 0.00 s
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0001 epoch: 36949 , RMSE_Test: 0.28908 , RMSE_Train: 0.10396 , est_time:   2.0 min, average_time: 0.00 s
+start to save model
+start to save log
+my_results/final_model_1695793138_best_0.17.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 128 , learningRate: 0.0001
+, epoch: 36949 , passed_time: 2.000 m , minimum_RMSE: 0.17177 , test_loss: 0.289082 , train_loss: 0.103965 , passed_time_accum: 30.199 m model_save_time 1695793138
+start to save figures
+
+saving work is done
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.0005 epoch:     0 , RMSE_Test: 0.52834 , RMSE_Train: 0.50311 , est_time:   0.0 min, average_time: 0.03 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.0005 epoch:  1000 , RMSE_Test: 0.21057 , RMSE_Train: 0.07253 , est_time:   0.4 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.0005 epoch:  2000 , RMSE_Test: 0.23406 , RMSE_Train: 0.07560 , est_time:   0.7 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.0005 epoch:  3000 , RMSE_Test: 0.21592 , RMSE_Train: 0.09778 , est_time:   1.1 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.0005 epoch:  4000 , RMSE_Test: 0.22313 , RMSE_Train: 0.08377 , est_time:   1.5 min, average_time: 0.02 s
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+act:  ReLU opt:  Adam batch_size:  8 learningRate:  0.0005 epoch:  4842 , RMSE_Test: 0.26149 , RMSE_Train: 0.10731 , est_time:   2.0 min, average_time: 0.02 s
+start to save model
+start to save log
+my_results/final_model_1695793259_best_0.17.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 8 , learningRate: 0.0005
+, epoch:  4842 , passed_time: 2.001 m , minimum_RMSE: 0.17177 , test_loss: 0.261494 , train_loss: 0.107306 , passed_time_accum: 32.212 m model_save_time 1695793259
+start to save figures
+
+saving work is done
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0005 epoch:     0 , RMSE_Test: 0.56371 , RMSE_Train: 0.44496 , est_time:   0.0 min, average_time: 0.02 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0005 epoch:  1000 , RMSE_Test: 0.28104 , RMSE_Train: 0.16202 , est_time:   0.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0005 epoch:  2000 , RMSE_Test: 0.20772 , RMSE_Train: 0.15401 , est_time:   0.4 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0005 epoch:  3000 , RMSE_Test: 0.25170 , RMSE_Train: 0.21507 , est_time:   0.6 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0005 epoch:  4000 , RMSE_Test: 0.23149 , RMSE_Train: 0.14551 , est_time:   0.8 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0005 epoch:  5000 , RMSE_Test: 0.24608 , RMSE_Train: 0.15312 , est_time:   1.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0005 epoch:  6000 , RMSE_Test: 0.21970 , RMSE_Train: 0.15395 , est_time:   1.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0005 epoch:  7000 , RMSE_Test: 0.21803 , RMSE_Train: 0.13910 , est_time:   1.4 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0005 epoch:  8000 , RMSE_Test: 0.23142 , RMSE_Train: 0.13041 , est_time:   1.6 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0005 epoch:  9000 , RMSE_Test: 0.23502 , RMSE_Train: 0.14187 , est_time:   1.9 min, average_time: 0.01 s
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+act:  ReLU opt:  Adam batch_size:  16 learningRate:  0.0005 epoch:  9269 , RMSE_Test: 0.24249 , RMSE_Train: 0.15504 , est_time:   2.0 min, average_time: 0.01 s
+start to save model
+start to save log
+my_results/final_model_1695793380_best_0.17.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 16 , learningRate: 0.0005
+, epoch:  9269 , passed_time: 2.000 m , minimum_RMSE: 0.17177 , test_loss: 0.242494 , train_loss: 0.155035 , passed_time_accum: 34.227 m model_save_time 1695793380
+start to save figures
+
+saving work is done
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0005 epoch:     0 , RMSE_Test: 0.58254 , RMSE_Train: 0.86332 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0005 epoch:  1000 , RMSE_Test: 0.22201 , RMSE_Train: 0.27670 , est_time:   0.1 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0005 epoch:  2000 , RMSE_Test: 0.20356 , RMSE_Train: 0.28183 , est_time:   0.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0005 epoch:  3000 , RMSE_Test: 0.19173 , RMSE_Train: 0.27805 , est_time:   0.3 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0005 epoch:  4000 , RMSE_Test: 0.18952 , RMSE_Train: 0.26477 , est_time:   0.4 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0005 epoch:  5000 , RMSE_Test: 0.19810 , RMSE_Train: 0.24650 , est_time:   0.5 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0005 epoch:  6000 , RMSE_Test: 0.19143 , RMSE_Train: 0.22083 , est_time:   0.6 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0005 epoch:  7000 , RMSE_Test: 0.23334 , RMSE_Train: 0.30635 , est_time:   0.8 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0005 epoch:  8000 , RMSE_Test: 0.24699 , RMSE_Train: 0.20126 , est_time:   0.9 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0005 epoch:  9000 , RMSE_Test: 0.22110 , RMSE_Train: 0.21032 , est_time:   1.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0005 epoch: 10000 , RMSE_Test: 0.21296 , RMSE_Train: 0.20976 , est_time:   1.1 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0005 epoch: 11000 , RMSE_Test: 0.25273 , RMSE_Train: 0.26132 , est_time:   1.2 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0005 epoch: 12000 , RMSE_Test: 0.25829 , RMSE_Train: 0.19687 , est_time:   1.3 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0005 epoch: 13000 , RMSE_Test: 0.22938 , RMSE_Train: 0.20760 , est_time:   1.4 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0005 epoch: 14000 , RMSE_Test: 0.26409 , RMSE_Train: 0.20538 , est_time:   1.5 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0005 epoch: 15000 , RMSE_Test: 0.23823 , RMSE_Train: 0.15808 , est_time:   1.6 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0005 epoch: 16000 , RMSE_Test: 0.24601 , RMSE_Train: 0.21615 , est_time:   1.7 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0005 epoch: 17000 , RMSE_Test: 0.25488 , RMSE_Train: 0.15752 , est_time:   1.9 min, average_time: 0.01 s
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+act:  ReLU opt:  Adam batch_size:  32 learningRate:  0.0005 epoch: 17762 , RMSE_Test: 0.24502 , RMSE_Train: 0.15352 , est_time:   2.0 min, average_time: 0.01 s
+start to save model
+start to save log
+my_results/final_model_1695793500_best_0.17.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 32 , learningRate: 0.0005
+, epoch: 17762 , passed_time: 2.000 m , minimum_RMSE: 0.17177 , test_loss: 0.245024 , train_loss: 0.153521 , passed_time_accum: 36.238 m model_save_time 1695793500
+start to save figures
+
+saving work is done
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch:     0 , RMSE_Test: 2.12257 , RMSE_Train: 0.96213 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch:  1000 , RMSE_Test: 0.29754 , RMSE_Train: 0.25967 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch:  2000 , RMSE_Test: 0.23153 , RMSE_Train: 0.24442 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch:  3000 , RMSE_Test: 0.21859 , RMSE_Train: 0.22028 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch:  4000 , RMSE_Test: 0.26259 , RMSE_Train: 0.23235 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch:  5000 , RMSE_Test: 0.27641 , RMSE_Train: 0.26125 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch:  6000 , RMSE_Test: 0.20642 , RMSE_Train: 0.19788 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch:  7000 , RMSE_Test: 0.25977 , RMSE_Train: 0.24653 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch:  8000 , RMSE_Test: 0.25714 , RMSE_Train: 0.21072 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch:  9000 , RMSE_Test: 0.21559 , RMSE_Train: 0.18143 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch: 10000 , RMSE_Test: 0.23490 , RMSE_Train: 0.18300 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch: 11000 , RMSE_Test: 0.22352 , RMSE_Train: 0.16268 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch: 12000 , RMSE_Test: 0.22617 , RMSE_Train: 0.15627 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch: 13000 , RMSE_Test: 0.23526 , RMSE_Train: 0.13335 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch: 14000 , RMSE_Test: 0.24691 , RMSE_Train: 0.22673 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch: 15000 , RMSE_Test: 0.23272 , RMSE_Train: 0.19286 , est_time:   1.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch: 16000 , RMSE_Test: 0.24417 , RMSE_Train: 0.17095 , est_time:   1.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch: 17000 , RMSE_Test: 0.24374 , RMSE_Train: 0.18705 , est_time:   1.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch: 18000 , RMSE_Test: 0.23819 , RMSE_Train: 0.19217 , est_time:   1.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch: 19000 , RMSE_Test: 0.25138 , RMSE_Train: 0.15448 , est_time:   1.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch: 20000 , RMSE_Test: 0.25340 , RMSE_Train: 0.15845 , est_time:   1.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch: 21000 , RMSE_Test: 0.26848 , RMSE_Train: 0.13791 , est_time:   1.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch: 22000 , RMSE_Test: 0.25499 , RMSE_Train: 0.20802 , est_time:   1.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch: 23000 , RMSE_Test: 0.27189 , RMSE_Train: 0.17443 , est_time:   1.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch: 24000 , RMSE_Test: 0.26586 , RMSE_Train: 0.16886 , est_time:   1.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch: 25000 , RMSE_Test: 0.27539 , RMSE_Train: 0.14594 , est_time:   1.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch: 26000 , RMSE_Test: 0.28030 , RMSE_Train: 0.13831 , est_time:   1.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch: 27000 , RMSE_Test: 0.27565 , RMSE_Train: 0.11897 , est_time:   1.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch: 28000 , RMSE_Test: 0.27368 , RMSE_Train: 0.12109 , est_time:   2.0 min, average_time: 0.00 s
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+act:  ReLU opt:  Adam batch_size:  64 learningRate:  0.0005 epoch: 28126 , RMSE_Test: 0.28914 , RMSE_Train: 0.13147 , est_time:   2.0 min, average_time: 0.00 s
+start to save model
+start to save log
+my_results/final_model_1695793621_best_0.17.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 64 , learningRate: 0.0005
+, epoch: 28126 , passed_time: 2.000 m , minimum_RMSE: 0.17177 , test_loss: 0.289142 , train_loss: 0.131469 , passed_time_accum: 38.249 m model_save_time 1695793621
+start to save figures
+
+saving work is done
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch:     0 , RMSE_Test: 1.31308 , RMSE_Train: 0.57876 , est_time:   0.0 min, average_time: 0.01 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch:  1000 , RMSE_Test: 0.24506 , RMSE_Train: 0.25955 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch:  2000 , RMSE_Test: 0.25745 , RMSE_Train: 0.22634 , est_time:   0.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch:  3000 , RMSE_Test: 0.20313 , RMSE_Train: 0.18219 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch:  4000 , RMSE_Test: 0.20043 , RMSE_Train: 0.17733 , est_time:   0.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch:  5000 , RMSE_Test: 0.24708 , RMSE_Train: 0.15635 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch:  6000 , RMSE_Test: 0.21140 , RMSE_Train: 0.18078 , est_time:   0.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch:  7000 , RMSE_Test: 0.21421 , RMSE_Train: 0.18393 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch:  8000 , RMSE_Test: 0.20537 , RMSE_Train: 0.20395 , est_time:   0.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch:  9000 , RMSE_Test: 0.22230 , RMSE_Train: 0.16487 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 10000 , RMSE_Test: 0.23581 , RMSE_Train: 0.16828 , est_time:   0.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 11000 , RMSE_Test: 0.24301 , RMSE_Train: 0.14823 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 12000 , RMSE_Test: 0.24082 , RMSE_Train: 0.16672 , est_time:   0.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 13000 , RMSE_Test: 0.24777 , RMSE_Train: 0.15598 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 14000 , RMSE_Test: 0.23393 , RMSE_Train: 0.17740 , est_time:   0.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 15000 , RMSE_Test: 0.23879 , RMSE_Train: 0.15040 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 16000 , RMSE_Test: 0.25488 , RMSE_Train: 0.16812 , est_time:   0.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 17000 , RMSE_Test: 0.27396 , RMSE_Train: 0.13256 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 18000 , RMSE_Test: 0.27791 , RMSE_Train: 0.13531 , est_time:   0.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 19000 , RMSE_Test: 0.26000 , RMSE_Train: 0.11168 , est_time:   1.0 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 20000 , RMSE_Test: 0.25762 , RMSE_Train: 0.13270 , est_time:   1.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 21000 , RMSE_Test: 0.27484 , RMSE_Train: 0.12183 , est_time:   1.1 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 22000 , RMSE_Test: 0.27856 , RMSE_Train: 0.15744 , est_time:   1.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 23000 , RMSE_Test: 0.28098 , RMSE_Train: 0.09578 , est_time:   1.2 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 24000 , RMSE_Test: 0.26029 , RMSE_Train: 0.10616 , est_time:   1.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 25000 , RMSE_Test: 0.25788 , RMSE_Train: 0.09573 , est_time:   1.3 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 26000 , RMSE_Test: 0.26782 , RMSE_Train: 0.08618 , est_time:   1.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 27000 , RMSE_Test: 0.27298 , RMSE_Train: 0.07631 , est_time:   1.4 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 28000 , RMSE_Test: 0.27888 , RMSE_Train: 0.09169 , est_time:   1.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 29000 , RMSE_Test: 0.27788 , RMSE_Train: 0.09340 , est_time:   1.5 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 30000 , RMSE_Test: 0.26784 , RMSE_Train: 0.11435 , est_time:   1.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 31000 , RMSE_Test: 0.25355 , RMSE_Train: 0.11028 , est_time:   1.6 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 32000 , RMSE_Test: 0.26916 , RMSE_Train: 0.10935 , est_time:   1.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 33000 , RMSE_Test: 0.29635 , RMSE_Train: 0.07472 , est_time:   1.7 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 34000 , RMSE_Test: 0.28536 , RMSE_Train: 0.07317 , est_time:   1.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 35000 , RMSE_Test: 0.29626 , RMSE_Train: 0.07989 , est_time:   1.8 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 36000 , RMSE_Test: 0.29029 , RMSE_Train: 0.09327 , est_time:   1.9 min, average_time: 0.00 s
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 37000 , RMSE_Test: 0.31360 , RMSE_Train: 0.07990 , est_time:   1.9 min, average_time: 0.00 s
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+act:  ReLU opt:  Adam batch_size:  128 learningRate:  0.0005 epoch: 37880 , RMSE_Test: 0.28451 , RMSE_Train: 0.08174 , est_time:   2.0 min, average_time: 0.00 s
+start to save model
+start to save log
+my_results/final_model_1695793742_best_0.17.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 128 , learningRate: 0.0005
+, epoch: 37880 , passed_time: 2.000 m , minimum_RMSE: 0.17177 , test_loss: 0.284515 , train_loss: 0.081738 , passed_time_accum: 40.262 m model_save_time 1695793742
+start to save figures
+
+saving work is done
+finish--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+These parameters showed the best performance!--------------------------------------------------------------------------------
+('my_results/model_1695792897_best_0.17.pt', ', layer_dim_list:', [2200, 100, 100, 10, 1], 'activateion:', 'ReLU', ', optimizer:', 'Adam', ', Bsize:', 32, ', learningRate:', 0.0001, ', epoch:  6710', ', passed_time: 0.701', 'm', ', minimum_RMSE: 0.17177', ', test_loss: 0.029506', ', train_loss: 0.057957', ', passed_time_accum: 24.877', 'm')
+all donemy_results/error_model_1695795924_best_0.18.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 32 , learningRate: 0.0001
+, epoch:  2654 , passed_time: 0.289 m , minimum_RMSE: inf , RMSE_Test: 0.188316 , RMSE_Train: 0.277497 , passed_time_accum: 0.289 m model_save_time 1695795924
+my_results/error_model_1695796030_best_0.52.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 32 , learningRate: 0.0001
+, epoch: 43353 , passed_time: 6.364 m , minimum_RMSE: inf , RMSE_Test: 0.523989 , RMSE_Train: 0.639712 , passed_time_accum: 6.364 m model_save_time 1695796030
+my_results/error_model_1695796969_best_0.29.pt
+, layer_dim_list: [2200, 100, 100, 10, 1] activateion: ReLU , optimizer: Adam , Bsize: 16 , learningRate: 0.0001
+, epoch: 559623 , passed_time: 160.782 m , minimum_RMSE: 0.15409 , RMSE_Test: 0.299930 , RMSE_Train: 0.069248 , passed_time_accum: 160.782 m model_save_time 1695796969
+
