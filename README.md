@@ -1,5 +1,11 @@
 # NewJChem2021_45_9427_git
 
+ps -ef
+
+nohup jupyter lab --no-browser --port=8080 > /mnt/d/ubuntu_second_home/nohup_jupyterlab.out & tail -f /mnt/d/ubuntu_second_home/nohup_jupyterlab.out
+
+ps -ef
+
 # input
 1. The corres-ponding descriptors are the atomic weight of the ion at the X site (MX), 
 2. the atomic weight of the B-site ion (MB), 
